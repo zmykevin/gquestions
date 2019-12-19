@@ -10,7 +10,8 @@ Please have **python 3.6+** installed and run the following command
 ```
 pip install -r requirements.txt
 ```
-In order to run the code, you will also need to have a chrome browser and corresponding webdriver. Check the version of your chrome browser and download the corresponding driver from [this page](https://chromedriver.chromium.org/downloads). Unzip the downloded zip file to 'driver' under this repository. (If your chrome version is 78 and you run the code on ubuntu system, you don't have to do this step as the right webdriver is already provided.)
+In order to run the code, you will also need to have a chrome browser and corresponding webdriver. Check the version of your chrome browser and download the corresponding driver from [this page](https://chromedriver.chromium.org/downloads). Unzip the downloded zip file to **driver/** under this repository. 
+(If your chrome browser version is 78 and you run the code on ubuntu system, you don't have to do this step as the right webdriver is already in the folder.)
 
 ### How to Run the Code
 You can create a list of the queries/entities you want to search for the "people also ask" questions in the **search_queries.txt**, in the following format:
