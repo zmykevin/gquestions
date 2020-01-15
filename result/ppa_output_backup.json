@@ -187,6 +187,68 @@
     ],
     "favorite wine": [
         {
+            "question": "What are the top 10 wines?",
+            "url": "https://www.bloomberg.com/news/articles/2018-12-21/the-top-10-wines-of-2018"
+        },
+        {
+            "question": "Which wine is best for ladies?",
+            "url": "http://www.eatingwell.com/article/152611/5-most-popular-wines/"
+        },
+        {
+            "question": "What is the highest rated wine?",
+            "url": "https://vinepair.com/articles/best-wines-2018/"
+        },
+        {
+            "question": "What is the most popular red wine?",
+            "url": "https://www.dummies.com/food-drink/drinks/wine/the-most-popular-red-grape-varieties/"
+        },
+        {
+            "question": "What is the healthiest wine to drink?",
+            "url": "https://www.cheatsheet.com/health-fitness/these-are-the-healthiest-and-unhealthiest-wines-you-can-drink.html/"
+        },
+        {
+            "question": "What is a good dinner wine?",
+            "url": "https://winecountrygetaways.com/wine-enjoyment-guide/which-wines-for-dinner/"
+        },
+        {
+            "question": "Which wine is best for skin?",
+            "url": "https://food.ndtv.com/health/red-wine-benefits-will-a-glass-of-vino-a-day-actually-keep-the-doctor-away-1219416"
+        },
+        {
+            "question": "What is the most popular wine in the United States?",
+            "url": "https://lizthachmw.com/2018/12/21/which-wine-varietals-do-americans-prefer-in-2018/"
+        },
+        {
+            "question": "What is the number one selling wine in America?",
+            "url": "https://www.statista.com/statistics/251955/leading-table-wine-brand-sales-in-the-us/"
+        },
+        {
+            "question": "What is the most popular white wine in America?",
+            "url": "https://usawineratings.com/en/blog/grapes-3338/the-most-popular-types-of-white-wine-grapes-117.htm"
+        },
+        {
+            "question": "What is a good cheap wine?",
+            "url": "https://www.cosmopolitan.com/lifestyle/g19734826/best-cheap-wines/"
+        },
+        {
+            "question": "What are the 4 types of wine?",
+            "url": "https://www.ehow.com/about_5394902_types-wine.html"
+        },
+        {
+            "question": "What is the sweetest wine?",
+            "url": "https://winefolly.com/tutorial/9-serious-sweet-wines-you-must-try/"
+        },
+        {
+            "question": "What is the sweetest type of wine?",
+            "url": "https://www.cellarswineclub.com/Sweet-Wine-Types.aspx"
+        },
+        {
+            "question": "What is a good dessert wine?",
+            "url": "https://vinepair.com/buy-this-booze/8-dessert-wines-for-you-and-your-sweetheart/"
+        }
+    ],
+    "favorite wine": [
+        {
             "question": "What is the most popular wine?",
             "url": "http://www.eatingwell.com/article/152611/5-most-popular-wines/"
         },
@@ -245,130 +307,6 @@
         {
             "question": "What are the 4 types of wine?",
             "url": "https://www.ehow.com/about_5394902_types-wine.html"
-        }
-    ],
-    "favorite ramen": [
-        {
-            "question": "What brand of ramen is best?",
-            "url": "https://spoonuniversity.com/lifestyle/8-instant-noodles-that-are-way-better-than-maruchan-ramen"
-        },
-        {
-            "question": "Why Ramen noodles are not good for you?",
-            "url": "https://foodrevolution.org/blog/ramen-noodles/"
-        },
-        {
-            "question": "Is there a healthy version of ramen noodles?",
-            "url": "https://www.maruchan.com/articles/healthier-ramen-is-just-minutes-away/"
-        },
-        {
-            "question": "Which instant ramen is the best?",
-            "url": "https://www.savantmag.com/best-instant-ramen/"
-        },
-        {
-            "question": "What is the most popular ramen?",
-            "url": "https://gurunavi.com/en/japanfoodie/2018/02/regional-ramen.html"
-        },
-        {
-            "question": "Why instant ramen is bad for you?",
-            "url": "https://www.healthline.com/nutrition/ramen-noodles"
-        },
-        {
-            "question": "How do you make the best ramen noodles?",
-            "url": "https://www.wikihow.com/Cook-Ramen-Noodles"
-        },
-        {
-            "question": "What does tonkotsu ramen taste like?",
-            "url": "https://gurunavi.com/en/japanfoodie/2015/09/ramen.html"
-        },
-        {
-            "question": "What type of noodles are ramen?",
-            "url": "https://www.thekitchn.com/whats-the-difference-soba-udon-116505"
-        },
-        {
-            "question": "What makes tonkotsu ramen creamy?",
-            "url": "https://glebekitchen.com/tonkotsu-ramen-broth-home/"
-        },
-        {
-            "question": "What is Naruto in ramen?",
-            "url": "https://www.quora.com/What-are-the-pink-and-white-things-in-ramen"
-        },
-        {
-            "question": "What should I serve with ramen?",
-            "url": "https://www.japan-guide.com/e/e2042.html"
-        },
-        {
-            "question": "Should you drink ramen broth?",
-            "url": "https://www.bloomberg.com/news/articles/2017-07-27/what-you-re-doing-wrong-when-you-eat-a-bowl-of-ramen"
-        },
-        {
-            "question": "Is cheese good in ramen?",
-            "url": "https://www.thekitchn.com/top-your-ramen-with-american-cheese-236359"
-        },
-        {
-            "question": "What spices to put in ramen?",
-            "url": "https://food-hacks.wonderhowto.com/how-to/5-simple-tips-upgrade-your-packaged-ramen-noodles-from-instant-gourmet-0150632/"
-        }
-    ],
-    "favorite steak": [
-        {
-            "question": "What is the most popular steak?",
-            "url": "http://www.topratedsteakhouses.com/what-is-the-best-steak-to-order-at-a-steakhouse-restaurant/"
-        },
-        {
-            "question": "What is America's favorite steak?",
-            "url": "https://www.debragga.com/p/news/vote-for-americas-favorite-steak/"
-        },
-        {
-            "question": "What's better sirloin or ribeye?",
-            "url": "https://spoonuniversity.com/lifestyle/sirloin-vs-ribeye"
-        },
-        {
-            "question": "What is the most flavorful cut of steak?",
-            "url": "http://www.clovermeadowsbeef.com/best-cut-of-steak/"
-        },
-        {
-            "question": "What's better T bone or ribeye?",
-            "url": "https://www.mychicagosteak.com/steak-university/porterhouse-ribeye-great-steak-debate/"
-        },
-        {
-            "question": "Why is ribeye the best steak?",
-            "url": "https://www.mychicagosteak.com/steak-university/ribeye-steak-vs-sirloin-comparison/"
-        },
-        {
-            "question": "What is the best steak to grill?",
-            "url": "https://www.tasteofhome.com/article/the-best-steaks-for-grilling/"
-        },
-        {
-            "question": "What is the most expensive cut of steak?",
-            "url": "https://www.forbes.com/sites/eustaciahuen/2015/12/31/why-does-the-worlds-most-expensive-steak-cost-3200/"
-        },
-        {
-            "question": "What's better porterhouse or ribeye?",
-            "url": "https://www.bbqdryrubs.com/porterhouse-vs-ribeye-steak/"
-        },
-        {
-            "question": "How do you pick a good steak?",
-            "url": "https://www.chefsteps.com/activities/selecting-meat-for-purchase"
-        },
-        {
-            "question": "Why is my steak tough and chewy?",
-            "url": "https://www.livestrong.com/article/507565-how-to-fix-chewy-steaks/"
-        },
-        {
-            "question": "Which part of cow is best for steak?",
-            "url": "https://www.branxtonbeefjerky.com.au/best-beef-cuts-most-juicy-parts-of-the-cow/"
-        },
-        {
-            "question": "What's so special about a tomahawk steak?",
-            "url": "http://blog.gentlemint.com/2016/jul/13/tomahawk-steak-what-it-and-should-you-buy-it/"
-        },
-        {
-            "question": "How can I make my steak juicy and tender?",
-            "url": "https://www.onegoodthingbyjillee.com/how-to-make-cheap-steaks-taste-expensive/"
-        },
-        {
-            "question": "How can I make my steak tender?",
-            "url": "https://www.tasteofhome.com/article/how-to-make-tough-meat-tender/"
         }
     ]
 }
