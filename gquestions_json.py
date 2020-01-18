@@ -47,6 +47,15 @@ Visualizza una barra di caricamento per mostrare l'attesa
 '''
 
 
+class default_answer(object):
+
+    def __init__(self):
+        self.textContent = ""
+
+    def get_attribute(self, attribute):
+        return self.textContent
+
+
 def sleepBar(seconds):
     for i in tqdm(range(seconds)):
         sleep(1)
@@ -142,18 +151,23 @@ def newSearch_Mingyang(browser, query, lang="en"):
         "//span/following-sibling::div[contains(@class,'match-mod-horizontal-padding')]")
     paa_url = browser.find_elements_by_xpath(
         "//div[contains(@class,'gy6Qzb')]/div/div/div[@class='g']/div/div/div[@class='r']/a")
-    paa_answer = browser.find_elements_by_xpath(
-        "//div[contains(@class,'gy6Qzb')]/div/div/div[@class='mod']/div/span/span[@class='e24Kjd']")
+    paa_answer_detected = browser.find_elements_by_xpath(
+        "//div[contains(@class,'gy6Qzb')]/div/div/div[@class='mod']/div/span/span[@class='e24Kjd']/../..")
+    paa_answer_parent = browser.find_elements_by_xpath(
+        "//div[contains(@class,'gy6Qzb')]/div/div/div[@class='mod']/div")
+
     hideGBar()
     # print(paa_answer[0].get_attribute("textContent"))
 
     assert len(paa) == len(
         paa_url), "assert the number of questions is not matching number of urls : {}-{}".format(len(paa), len(paa_url))
-
+    assert len(paa_answer_parent) == len(
+        paa), "assert the number of question is not matching the number of answer blocks: {}-{}".format(len(paa), len(paa_answer_parent))
     # assert len(paa) == len(
     # paa_answer), "assert the number of questions is not matching number of
     # answers:{} - {}".format(len(paa), len(paa_answer))
-
+    paa_answer = [default_answer()] * len(paa_answer_parent)
+    print(paa_answer[0].get_attribute('textContent'))
     return paa, paa_url, paa_answer
 
 """

@@ -9,6 +9,7 @@ import logging
 from gquestions_json import initBrowser
 from pprint import pprint
 
+
 def config_args():
     parser = argparse.ArgumentParser()
 
@@ -25,7 +26,8 @@ def config_args():
                         help="The path for the backup json file for ppa")
     parser.add_argument('--headless', action='store_true',
                         help="The flag to indicate whether you want the browser pop up or not.")
-    parser.add_argument('--extraction_mode', type=str, default="full", help="The mode to extract the information")
+    parser.add_argument('--extraction_mode', type=str,
+                        default="full", help="The mode to extract the information")
 
     args = parser.parse_args()
     return args
@@ -35,7 +37,7 @@ if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
 
     args = config_args()
-    
+
     with open(args.out_dir, 'r') as fp:
         result = json.load(fp)
     assert type(result) is dict, "The initialized result should be a dictionary"
@@ -54,7 +56,7 @@ if __name__ == "__main__":
 
     query = queries[0]
     #result = {query: None for query in queries}
-    
+
     if args.extraction_mode == "qurl":
         from gquestions_json_qurl import newSearch_Mingyang, crawlQuestions_Mingyang, flatten_paa_list
         for query in queries:
@@ -81,21 +83,26 @@ if __name__ == "__main__":
 
                     result[query] += query_questions.copy()
 
-                    # Save the result to a json file, make sure the old ones are good
+                    # Save the result to a json file, make sure the old ones
+                    # are good
                     with open(args.out_dir, 'w') as fp:
                         json.dump(result, fp, sort_keys=False, indent=4)
                 except:
-                    print("[FAILED_PPA] Unable to extract the questions for: {}".format(query))
-    
+                    print(
+                        "[FAILED_PPA] Unable to extract the questions for: {}".format(query))
+
     elif args.extraction_mode == "full":
         from gquestions_json import newSearch_Mingyang, crawlQuestions_Mingyang, flatten_paa_list
         for query in queries:
             if not result.get(query, None):
-                #try:
+                # try:
                 result[query] = []
 
                 start_paa, start_paa_url, start_paa_answer = newSearch_Mingyang(
                     browser, query)
+                # print(start_paa_answer[0])
+                # print(start_paa_parent)
+                # print(start_paa_parent.index(start_paa_answer[0]))
 
                 # initialSet = {}
                 # cnt = 0
@@ -119,9 +126,6 @@ if __name__ == "__main__":
                 # except:
                 #     print("[FAILED_PPA] Unable to extract the questions for: {}".format(query))
 
-
-
         # print(result)
-
 
     browser.close()
