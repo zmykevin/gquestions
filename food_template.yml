@@ -1,0 +1,433 @@
+general_templates:
+  ask_restaurant_location:
+    - "Can you give me the city where you are looking for a restaurant? "
+  # - "Can you tell me the name of the city where you're looking for a restaurant? "
+    - "Tell me the city where you want me to look for restaurants. "
+  # - "Can you tell me the name of the city where you're looking for a place to eat? "
+  ask_city_state:
+  #  - "Seems that I found a couple of matching results on the city name {city}. Can you tell me the state of this city so that I can clarify my searching results? "
+    - "It looks like there are a couple of cities called {city}. Can you also tell me the state? "
+    - "Can you please tell me the state name so that I can provide better results? "
+  ask_preference_for_cuisine:
+    - "What kind of cuisine are you looking for? like american or japanese? "
+    - "What type of food do you have in mind? For example seafood, steak, or pizza? "
+  appologize_for_no_match_position:
+    - "Sorry but I can't find any restaurants in {city}, {state}. You can try another location or we can talk about something else. "
+  acknowledge_best_beginner_sushi:
+    - "{suggestion}? Thanks for the suggestion. I will definitely have them try that!"
+  acknowledge_best_beginner_sushi_uncertain:
+    - "I will just let them try the regular ones like california roll first."
+  acknowledge_food_week_frequency_not_often:
+    - "{frequency} time? so not very often. "
+    - "only {frequency} time? okay. "
+  acknowledge_food_week_frequency_normal:
+    - "{frequency} times a week? that seems pretty reasonable. "
+    - "{frequency} times a week seems pretty normal. "
+  acknowledge_food_week_frequency_frequently:
+    - "oh <say-as interpret-as='interjection'>wow</say-as>! {frequency} times a week? That is a lot! "
+    - "{frequency} times is a lot! "
+  acknowledge_general:
+    - 'Sure. '
+    - 'Ok. '
+    - "That's cool. "
+    - "That's ok. "
+    - "Ah,  I see. "
+  acknowledge_what_grow_food:
+    - "you've grown {food}? Nice! "
+    - "{food}?, that is a great option to grow yourself! "
+  acknowledge_strange_food:
+    - "{paraphrase}? doesn't sound like something eatable! "
+    - "{paraphrase}? I don't even think that's eatable! "
+  acknowledge_uncertain_answer:
+    - "that's ok. You don't always have an answer. "
+    - "That's fine. You don't need to know everything. "
+  acknowledge_suggest_food:
+    - "<say-as interpret-as=\"interjection\">yum</say-as>, I like {food} too! "
+    - "{food}? you have a good taste. "
+  #new templates
+  acknowledge_shared_answer:
+    - "<say-as interpret-as='interjection'>wow</say-as>!! me too!"
+    - "You must read my mind!"
+  #new templates
+  acknowledge_eatting_peanut_butter_different:
+    - "{food}? I should give it a try next time! "
+    - "So you like {food}? I have never thought about that. "
+  acknowledge_question:
+    - "<say-as interpret-as='interjection'>ah</say-as>. <break time='600ms'/> "
+    - "Hmm. <break time='600ms'/>"
+  acknowledge_ask_interest_positive:
+    - "Oh, so you like {food}? Cool! "
+    - "Great! I like {food} as well! "
+  acknowledge_ask_interest_negative:
+    - "So you don't like {food}. why not? "
+    - "I guess you had a bad experience with {food}. "
+  acknowledge_favorite_country_food:
+    - "{country} food? Cool! I like {country} food as well. "
+    - "{country} food is tasty! You really know how to pick good food! "
+  acknowledge_favorite_pizza_topping_same:
+    -  "{topping} ? I love {topping} as well!"
+    -  "No Way! I also can't have a pizza without {topping}!"
+  acknowledge_favorite_pizza_topping_different:
+    -  "{topping} ? That must be really good! I should also  give it a try sometimes."
+    -  "{topping} sounds very tasty! You give me a really good suggestion for my next pizza order."
+  acknowledge_give_suggestion:
+    - "That's a really good advice! Thank you! "
+    - "Thank you so much! that's a great suggestion. "
+  acknowledge_yes_grow_own_food:
+    - "It is awesome! It will defintely take some work to grow your own food. I would love to learn more about it. "
+    - "<say-as interpret-as='interjection'>nice</say-as>! you must have a lot of experiences on how to do it! "
+  acknowledge_no_grow_own_food:
+    - "that is totally okay. we can always grab food from supermarket. "
+    - "sure. we can always get food somewhere else. "
+  acknowledge_yes_pizza_topping:
+    - "oh Wow! That is quite interesting. I guess every pizza lover has there own taste. "
+  acknowledge_no_pizza_topping:
+    - "Me Too! "
+    - "I cannot agree more. It is quite boring to just have plain pizzza. "
+  acknowledge_yes_adventurous_eater:
+    - "<say-as interpret-as='interjection'>wow!</say-as>, you are really brave! "
+    - "You are a true warrior! "
+  acknowledge_no_adventurous_eater:
+    - "Same! "
+    - "Me neither! "
+  acknowledge_yes_eat_healthy:
+    - "It's great to hear you care about eating healthy! "
+    - "that's great! you'll definitely benefit from it. "
+  acknowledge_no_eat_healthy:
+    - "sure. not everybody likes healthy eating all the time, but sometimes it's nice to try healthy options. "
+    - "ok, life is short, we need to enjoy it.  Still, I could give you some suggestions about eating healthy"
+  acknowledge_no_childfood:
+    - "that is ok. me either. "
+    - "sure, it is not an experience that everyone had. "
+  acknowledge_yes_childfood:
+    - "that's cool. what's the story behind that? "
+    - "interesting. "
+  acknowledge_yes_childfood_food_detected:
+    - "{food}? that's interesting"
+    - "you and {food} must have some interesting stories. "
+  acknowledge_yes_cook:
+    - "Fantastic! I love to cook! "
+    - "Cool! You must have a couple of secret recipes, right? "
+  acknowledge_no_cook:
+    - "Cooking's fun. You should try it sometime. "
+    - "that's ok. not everyone wants to become a chef. "
+  acknowledge_nystrip_better:
+    - "So you like new york strip? That is pretty good, cause I heard that new york strip is healtheir than ribeye."
+    - "new york strip is great! According to a food survey, new york strip contains more nutritional content than ribeye."
+  acknowledge_ribeye_better:
+    - "I love ribeye too, as it is more tender than new york strip."
+    - "I agree that ribeye is better, because ribeye contains more internal fat which gives it a very fatty flavor."
+  acknowledge_where_best_food:
+    - "That sounds great! I'll give it a try! "
+    - "Cool! You must've had a great experience! "
+  acknowledge_abandoned_answer:
+    - "Sorry, I missed the last thing you said. Can you repeat that for me? "
+    - "I'm sorry, I didn't quite hear you. Can you say that again? "
+  acknowledge_abandoned_question:
+    - "Sorry, can you say that one more time? "
+    - "I'm sorry, I didn't quite hear you. Can you repeat that please? "
+  #new template
+  acknowledge_traditional_ramen:
+    - "I like traditional ramen too. It is healtheir and contains more nutritional contents."
+    - "I will give my vote to traditional ramen as  well. The broth tastes much better and I love to have real chashu with the traditional ramen."
+  #new template
+  acknowledge_instant_ramen:
+    - "Instant ramen is definitely the best friend to a late-night studier like me, as I am learning from web everyday and never take a break."
+    - "I really love instant ramen. It was one of the best invention in the world, which is easy to cook and tastes so good!"
+  appologize_for_miss_again:
+    - "I'm sorry. I'm still having a hard time understanding. Can we change the topic? "
+    - "I'm really sorry, but I still can't understand. How about we talk about something else. "
+  appologize_for_no_match_position:
+    - "Sorry but I can't find any restaurants in {city}, {state}. You can try another location or we can talk about something else. "
+  appreciate_share_experience:
+    - "Thanks for sharing your experience! "
+    - "Thanks, that's interesting! "
+    - "I appreciate hearing about your experience. "
+  appreciate_share_opinion:
+    - 'I see what you mean. '
+    - 'Thanks for sharing your opinion. '
+    - "you make a good point. "
+  exit_food_module_no_topic:
+    - 'Seems like you want to talk about something else. '
+    - 'Do you want to talk about something else? '
+  exit_food_module_topic:
+    - 'Oh, ok! you want to talk about {other_topic}, right? '
+    - 'Do you want to talk about {other_topic}? '
+  exit_food_module_sure:
+    - 'No Problem! What do you want to talk about? '
+    - "Sure! Let's talk about something else"
+  miss_cuisine_type:
+    - "Can you please say the cuisine type one more time? "
+    - "I'm sorry. Can you say that cuisine one more time? "
+  miss_restaurant_location:
+    - "I'm sorry. can you please say the city name one more time? "
+    - "Can you please repeat the city name for me? I didn't hear clearly. "
+  miss_restaurant_location_match_general:
+    - "I'm sorry I can't find the location you mentioned. Maybe you could tell me the closest big city, or we can talk about something else. "
+    - "Unfortunately, I still can't find your location. Maybe you could tell me the closest big city, or we can talk about something else. "
+  miss_cuisine_match_general:
+    - "Sorry, I can't find the type of cuisine type you mentioned. Is there another type of cuisine you're interested in? Or we can talk about something else. "
+  miss_restaurant_match_cuisine:
+    - "I am sorry, I can't find a {cuisine} restaurant in {city}. Do you want to talk about something else? "
+  miss_restaurant_match_category:
+    - "I am sorry, I can't find a good {category} restaurant in {city}. Do you want to talk about something else? "
+  miss_restaurant_match_general:
+    - "I am sorry that I couldn't find a restaurant in {city}. Do you want to talk about something else? "
+  paraphrase_favorite_dish:
+    - "{paraphrase}, <say-as interpret-as='interjection'>yummy</say-as>! "
+    - "{paraphrase}, that sounds really delicious! "
+  paraphrase_grow_food:
+    - "{paraphrase}, you have grown some nice food! "
+    - "{paraphrase}, that is a great option for growing your own food! "
+  paraphrase_strange_food:
+    - "{paraphrase}? doesn't sound like something edible! "
+    - "{paraphrase}? I don't even think that's edible! "
+  propose_another_food_general_question:
+    - "Oh, let me ask you, "
+    - "Hmm, I was wondering, "
+  propose_talk_more_food:
+    - "let's keep talking more about food. "
+    - "let's continue to talk about food. "
+  propose_quit_food_modules:
+    - "we've been talking about food for a while. Why don't we talk about something else. "
+    - "I reaching the end of what I know about food. Let's talk about something else. "
+  restaurant_recommendation_general:
+    - "Here is the restaurant that I founnd for you in {city}. It is called {restaurant_name}, located in {locality}. It is a good {cuisine} restaurant with a rating {rating} out of 5 on zomato.com. "
+  restaurant_recommendation_cuisine:
+    - "I found you an excellent {cuisine} restaurant in {city}. The restaurant's name is {restaurant_name}, located in {locality}. It has a {rating_text} rating on zomato.com: {rating} out of 5. Hope you like it! "
+  restaurant_recomemndation_category:
+    - "Here is a good restaurant in {city} for {category}. It's called {restaurant_name}, located in {locality}. The rating of this restaurant on zomato.com is {rating} out of five. Please give it a try if you have never been there before. "
+  run_out_food_templates:
+    # - "This is all I know about {food} right now. "
+    # - "Unfortunately, the things that we talked before were all I know about {food}. "
+    - "not to change the topic about {food}, but "
+    - "{food} is awesome, but some other thoughs just come to my mind. "
+  start_food:
+    - "Food is one of my favorite topics. My dream is to try all the great food around the world. "
+    - "I love talking about food. Whenever I felt upset, food always makes me feel better. "
+    - "I can't even explain how much I love food! One bite of my favorite food on a bad day can totally change my mood. "
+  start_food_recipe:
+    - "Here is your {food} recipe"
+    - "let me teach you the recipe for {food}"
+  start_random_food_recipe:
+    - "I found a recipe for {food}, which is one of the most popular foods in the United States. "
+    - "I recently found an article introducing the 50 greatest dishes, {food} is one of them. So, here is a recipe. "
+  unable_handle_backstory_question:
+    - "you are really curious about me <say-as interpret-as='interjection'>huh</say-as>. I'm keeping my secrets for now. "
+    - "I am happy that you are interested to get to know me. But I have to keep my little secrets. "
+  unable_handle_opinion_question:
+    - "I havn't thought about it. let me get back to you later. "
+    - "i don't have an opinion for now. Let me think about it. "
+  unable_handle_question_with_funfact:
+    - "I haven't thought about that. But I did read an interesting post about {food}. {fun_fact}. Is this interesting? "
+    - "Sorry, I don't know the answer right now. However, I do know something else about {food}. Did you know that {fun_fact}"
+  unable_handle_question_general:
+    - "I don't have an answer right now. "
+    - "sorry, i don't know. "
+  unable_find_food_recipe:
+    - "I am sorry, but I don't know how to cook {food}. "
+    - "Unfortunately, I can't find a recipe for {food} right now. "
+  unable_find_recipe_general:
+    - "I don't know a recipe. Do you know one? "
+qa_templates:
+  qa_general:
+    - q:
+      - "what's your favorite meal? "
+      a: 'I think mine is orange chicken. I guess I have some weird tastes. '
+      acknowledge: 'ask_interest_food'
+      interest_food: "yes"
+      follow_up:
+        general_followup:
+          - q:
+            - "what's your least favorite food? "
+            - 'how about your least favorite food? '
+            a: 'my least favorite food is probably onions. The smell always makes me cry. '
+            acknowledge: 'ask_interest_food'
+        follow_up_reasoning:
+          - q:
+            - 'why {food}? '
+            - 'why is {food} your favorite? '
+            a: 'mine is orange chicken. I guess I have some weird tastes. '
+            acknowledge: 'ask_personal_experience'
+    - q:
+      - 'Many people think cooking is fun. do you like to cook? '
+      a: "I'm not much of a cook, but I would really love to try. A lot of people told me that cooking is a great way to relieve stress. "
+      acknowledge: "ask_yes_no_cook"
+      follow_up:
+        answer_yes:
+          - q:
+            - "So, how often do you cook in a week? "
+            - "Hmm, how many times do you cook during a week? "
+            a: "I wish i could learn all the recipes online and cook everyday for everyone. "
+            acknowledge: 'ask_frequency_week'
+          - q:
+            - 'do you prefer to cook food or eat at a restaurant? '
+            a: 'i think both are great. Cooking at home will help save some cash. However, eating in a restaurant will give you more options to explore. '
+            acknowledge: 'ask_personal_experience'
+    - q:
+      - "people tend to change their preferences over time. Are there any foods that you wouldn't eat as a kid that you eat now? "
+      a: "I haven't had this experience. However, it is fun to hear other people's stories"
+      acknowledge: "ask_yes_no_childfood"
+      follow_up:
+        answer_yes_no_food:
+          - q:
+            - "so what is that food? and what changed your mind? "
+            - "What is it? and why do you eat it now? "
+            a: "I haven't had this experience. However, it is fun to hear other people's stories"
+            acknowledge: 'ask_personal_experience'
+    - q:
+      - "You know, healthy eating is <emphasis level=\"strong\">so</emphasis> important. Are you concerned about your daily calorie intake when choosing something to eat? "
+      a:
+      - "Many of my friends recommend eating  more fish, as fish is a good source of protein and contains many vitamins. "
+      - "Here is my suggestion on how to eat healthy. cut down on saturated fat and sugar. adults should not eat more than 30 grams saturated fat. "
+      - "I would recommend eating less salt. No more than 6 grams a day for adults. "
+      acknowledge: "ask_yes_no_eat_healthy"
+      follow_up:
+        answer_yes_short:
+          - q:
+            - "can you share your secret of eating healthy? "
+            - "would you mind giving me some tips on how to eat healthy? "
+            a: ""
+            acknowledge: 'ask_personal_suggestion'
+            follow_up:
+              answer_yes_short:
+                - q:
+                  - "Thank you! go ahead. "
+                  - "Thanks! I am listening. "
+                  a: ""
+                  acknowledge: 'ask_personal_suggestion'
+    - q:
+      - "The United States is a cultural melting pot, with many different cuisines available. What country's food do you like the most? "
+      a: "A lot of my friends are from China and India. So, I love chinese food and Indian food. "
+      acknowledge: "ask_favorite_country_food"
+      follow_up:
+        answer_country:
+          - q:
+            - "I often have lamb curry when I go to a indian restaurant. what about you? Which {country} dish do you like most? "
+            - "What is your favorite dish in {country} food? "
+            a: ""
+            acknowledge: 'ask_favorite_dish'
+          - q:
+            - "Nice! Just curious, why do you like {country} food? "
+            - "Hmm, I'm thinking like, what makes you a big fan of {country} food. I would love to hear your experience. "
+            a: ""
+            acknowledge: 'ask_personal_experience'
+    - q:
+      - "I've heard food trucks have become really popular recently. <break time = \"200ms\"></break> What do your like about food trucks over traditional restaurants? "
+      a: "i think both have their advantages. If you're in a hurry, food trucks are definitely the go-to. However, if you really care about a nice environment, find yourself a good restaurant. "
+      acknowledge: "ask_personal_opinion"
+      follow_up:
+        answer_yes:
+          - q:
+            - "So, how often do you eat from food trucks in a week? "
+            a: ""
+            acknowledge: 'ask_frequency_week'
+          - q:
+            - "Do you have a favorite type of food you like to order at food trucks? "
+            a: "I really enjoy pineapple fried rice! "
+            acknowledge: 'ask_favorite_dish'
+    - q:
+      - "I hear that a lot of people are into growing their own food. I think it makes sense, since it’s always fresh. How about you? Have you ever had a vegetable garden? "
+      a: ""
+      acknowledge: "ask_whether_grow_own_food"
+      follow_up:
+        answer_yes_no_food:
+          - q:
+            - "What food have you grown before? "
+            a: "I heard that tomatoes are a popular option for many people. They're easy to grow in any size garden, as long as they can get a lot of sun and have support for their vines. "
+            acknowledge: 'ask_what_grow_own_food'
+        answer_yes:
+          - q:
+            - "do you think food you grow yourself is better than food sold in supermarket? "
+            a: "Food you grow yourself is guaranteed to be fresh, but it requires more time and physical work to maintain your garden. "
+            acknowledge: 'ask_personal_opinion'
+          - q:
+            - "what kind of suggestion can you give to a beginner gardener? "
+            a: ""
+            acknowledge: 'ask_personal_suggestion'
+    - q:
+      - "what do you think is the most unusual thing that you've ever eaten? "
+      a: "The strangest food I've ever eaten is chicken feet, which is quite popular in East Asia. "
+      acknowledge: "ask_strange_food"
+      follow_up:
+        general_followup:
+          - q:
+            - "Do you consider yourself to be an adventurous eater? "
+            a: "I don't thing so. I'm not very comfortable trying strange food. "
+            acknowledge: 'ask_whether_adventurous_eater'
+
+
+
+  qa_food:
+    - q:
+      - "Oh, I'm <say-as interpret-as=\"interjection\">really</say-as> curious, where is your favorite place to eat {food}? "
+      - 'by the way, can you tell me which place makes the best {food}? '
+      a: ''
+      acknowledge: 'ask_where_best_food'
+      q_id: "1"
+    - q:
+        - 'Hmm, how often do you have {food} in a week? '
+        - 'Ohh, how many times do you have {food} during a week? '
+      a: ''
+      acknowledge: 'ask_frequency_week'
+      q_id: "2"
+    # - q:
+    #   - "Which city would you recommend the sushi lovers move to, if they really want to have some authentic sushi?"
+    #   a: ''
+    #   acknowledge: ''
+    #   q_id: "2_sushi"
+  
+  qa_sushi:
+    - q:
+      - "I got some friends who have never tried sushi before. What do you think is the best sushi for beginners?"
+      a: ''
+      acknowledge: 'ask_best_beginner_sushi'
+      q_id: "1_sushi"
+    # - q:
+    #   - "Sushi lovers all have their favorite fish. I love salmon! What is your favorite fish for sushi?"
+    #   a: ''
+    #   acknowledge: ''
+    #   q_id: "2_sushi"
+
+  qa_pizza:
+    - q:
+      - "According to a food survey, 37 percent of people prefer plain cheese pizza than any other kinds. I am quite suprized by this number! Do you prefer plain pizza over pizza with toppings?"
+      a: ''
+      acknowledge: 'ask_whether_pizza_topping'
+      q_id: "1_pizza"
+      follow_up: 
+        answer_no:
+          - q:
+            - "What is your favorite pizza topping?"
+            - "What are the toppings you would put on your pizza for a best tasing experience?"
+            a: "I usually put pineapple and suasage on my pizza! Those are my two favorites."
+            acknowledge: "ask_favorite_pizza_topping"
+        answer_yes_short:
+          - q: 
+            - "Why just plain pizza?"
+            a: 'personally, I cannot have a pizza without toppings. My favorite pizza topping are pineapple and suasage.'
+            acknowledge:  "ask_personal_opinion"
+  qa_steak:
+    - q: 
+      - "Many steak lovers told me that new york strip and ribeye are two best steaks. Which one do you think is better?"
+      a: ''
+      acknowledge: "ask_better_nystrip_ribeye"
+      q_id: "1_steak"
+
+  qa_peanutbutter:
+    - q:
+      - "Peanut butter can be eat in many different ways. How do you usually eat peanut butter?"
+      a: 'Usually, I just spread a bunch of peanut butter on my sanwitch. <say-as interpret-as=\"interjection\">yum</say-as>, <say-as interpret-as=\"interjection\">yum</say-as>.'
+      acknowledge: "ask_how_to_eat_peanut_butter"
+      q_id: "1_peanutbutter"
+  
+  qa_ramen:
+    - q:
+      - "Ramen is often known as instant noodles in United States but there is also traditional ramen from Japan. Are you a traditional ramen lover or instant ramen lover?"
+      a: ''
+      acknowledge: "ask_whether_instant_traditional_ramen"
+      q_id: "1_ramen"
+
+      
+
+

@@ -1,0 +1,190 @@
+{
+    "sushi": [
+        {
+            "question": "{question_grounding} Where is the best sushi in the world?",
+            "url": "https://travel.amerikanki.com/best-sushi-restaurants-in-the-world/",
+            "answer": "1. sukiyabashi jiro, tokyo, japan. sukiyabashi jiro is considered to be the world's most celebrated sushi restaurant with a total of three michelin stars from the michelin guide. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What is the most expensive sushi fish?",
+            "url": "https://www.bbc.com/news/av/world-asia-46767850/tuna-king-kiyoshi-kimura-on-his-most-expensive-fish",
+            "answer": "a japanese sushi tycoon has paid a whopping $3.1m (\u00a32.5m) for a giant tuna making it the world's most expensive. kiyoshi kimura bought the 278kg (612lbs) bluefin tuna, which is an endangered species, at first new year's auction in tokyo's new fish market. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Is sushi bad for your health?",
+            "url": "https://www.forbes.com/sites/brucelee/2016/07/10/is-sushi-healthy-it-depends/",
+            "answer": "the bottom line is that sushi can be quite healthy or unhealthy depending on what ingredients are used, how it is prepared and how much you eat. fresh fish, particularly salmon, trout and tuna, can have plenty of protein and omega-3 fatty acids. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What day should you not eat sushi?",
+            "url": "https://www.foodrepublic.com/2012/07/09/the-12-sushi-commandments/",
+            "answer": "and on the 7th day, he did not eat sushi try to avoid eating sushi on sundays since japanese restaurants do not typically get fresh fish delivered (and sometimes not even on saturdays). quality sushi restaurants are also usually closed on mondays. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What's the best sushi for beginners?",
+            "url": "https://www.allaboutsushiguide.com/best-sushi-for-beginners.html",
+            "answer": "and a good one to start off with i think is a california roll. this will be your best sushi for beginners recommendation # 1. it is usually made of crab meat (real or imitation), cucumber and avocado. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Why should you eat sushi?",
+            "url": "https://www.oyakata.com.pl/en/oyakata-masters-book/japanese-cuisine/why-you-should-eat-sushi",
+            "answer": "due to it being low-calorie and high in carbohydrates, nutrients and omega-3 acids, sushi can be considered healthy. ... sushi is easily digestible due to its easily-absorbed ingredients, also when you are on a diet. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Why is sushi bad for you?",
+            "url": "https://www.forbes.com/sites/brucelee/2016/07/10/is-sushi-healthy-it-depends/",
+            "answer": "essentially, sushi is something with rice mixed with vinegar. ... the bottom line is that sushi can be quite healthy or unhealthy depending on what ingredients are used, how it is prepared and how much you eat. fresh fish, particularly salmon, trout and tuna, can have plenty of protein and omega-3 fatty acids. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What is the most expensive sushi fish?",
+            "url": "https://www.bbc.com/news/av/world-asia-46767850/tuna-king-kiyoshi-kimura-on-his-most-expensive-fish",
+            "answer": "a japanese sushi tycoon has paid a whopping $3.1m (\u00a32.5m) for a giant tuna making it the world's most expensive. kiyoshi kimura bought the 278kg (612lbs) bluefin tuna, which is an endangered species, at first new year's auction in tokyo's new fish market. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Is sushi good for losing weight?",
+            "url": "https://www.theglobeandmail.com/life/health-and-fitness/ask-a-health-expert/how-much-sushi-can-i-eat-if-i-want-to-lose-weight/article9230991/",
+            "answer": "the answer: when it comes to lower-calorie cuisine, it's hard to beat japanese \u2013 especially sushi. it's not deep-fried or smothered in sauce, and most types of sushi have no added fat. it can also be a good source of omega-3 fatty acids from the fish it's made with. ... on average, one piece of a maki roll has 45 calories. {answer_grounding}"
+        }
+    ],
+    "pizza": [
+        {
+            "question": "{question_grounding} What is the best pizza in the United States?",
+            "url": "https://www.pizzatoday.com/news/pizza-headlines/guide-to-the-2018-national-best-pizzas-lists/",
+            "answer": "tripadvisor delivers america's 10 best pizzerias boston beats new york for top pizzeria crown as regina pizzeria ranks no. 1 in the u.s. bleecker street pizza takes second and nashville earns two of the top 10 spots. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What country eats the most pizza?",
+            "url": "https://www.fromthegrapevine.com/lifestyle/every-country-good-something-information-data-david-mccandless",
+            "answer": "norway / pizza eaters per capita, the country of norway consumes the most pizza \u2013 about 11 pies per person per year \u2013 of any nation on earth. norwegians mostly eat frozen pizzas, with smaller percentages going to restaurants and cooking fresh pizza at home. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Why is Costco pizza so good?",
+            "url": "https://www.cosmopolitan.com/food-cocktails/news/a41334/costco-pizza-robot/",
+            "answer": "it turns out the reason your 800-calorie, $1.99 costco slice tastes so freaking good is because a magical pizza robot is perfectly distributing the sauce on every pizza so each one of your bites is a cohesive and complete taste of wholesale goodness. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What is America's favorite pizza company?",
+            "url": "https://finance.yahoo.com/news/lebron-james-backed-pizza-chain-is-americas-favorite-survey-160301513.html",
+            "answer": "blaze pizza, a pizza chain backed by nba champion lebron james, took the top spot as america's overall favorite fast-food pizza. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Is Italian pizza better than American?",
+            "url": "https://spoonuniversity.com/lifestyle/american-vs-italian-pizza-take-your-pick",
+            "answer": "american style pizzas tend to have a much thicker crust with more chew, it's a lot denser and therefore holds more ingredients. not always, but with most takeaway pizzas there tends to be much more cheese and tomato sauce, as well as toppings. size wise, american style pizza takes the cake. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What is the most popular pizza?",
+            "url": "https://www.businessinsider.com/the-most-popular-pizza-toppings-chart-2013-10",
+            "answer": "here's a pie chart of the most popular pizza toppings pepperoni dominates as the most popular pizza topping. a whopping 36% of people order pepperoni on their pizzas, according to research by business advisor brian roemmele. roemmele researched point-of-sale data from 604 pizza locations across the united states. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What is America's favorite pizza?",
+            "url": "https://www.huffpost.com/entry/most-popular-pizza-toppings-americans_l_5c5a02fee4b00187b555eea3",
+            "answer": "according to the research, 52 percent of americans surveyed said pepperoni is one of their three favorite pizza toppings. thirty-four percent included sausage in their top three, and 31 percent listed mushrooms. bacon and plain/mozzarella cheese each were named top-three picks by 20 percent of respondents. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What countries eat the most pizza?",
+            "url": "https://www.fromthegrapevine.com/lifestyle/every-country-good-something-information-data-david-mccandless",
+            "answer": "norway / pizza eaters per capita, the country of norway consumes the most pizza \u2013 about 11 pies per person per year \u2013 of any nation on earth. norwegians mostly eat frozen pizzas, with smaller percentages going to restaurants and cooking fresh pizza at home. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Is pizza good for diabetics?",
+            "url": "https://www.everydayhealth.com/type-2-diabetes/diet/type-2-diabetes-and-fast-food/",
+            "answer": "pizza may actually be a good choice for people with type 2 diabetes; just be sure to order the thin-crust type and top it with vegetables rather than high-fat meats and extra cheese. it's also a good idea to watch portion sizes. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Why pizza is your favorite food?",
+            "url": "https://medium.com/@bhushansatyal90/my-favorite-food-pizza-26b63387c47b",
+            "answer": "among the number of food pizza is my favorite food because it tastes and smells fabulous. the pizza itself looks so yummy, crispy and so cheesy. ... nearly any ingredient can be put on pizza. those diced vegetables, jalapenos, tomato sauce, cheese and mushrooms makes me eat more and more like a unique work of art. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Is pizza really that bad for you?",
+            "url": "https://www.goodhousekeeping.com/health/diet-nutrition/g1662/healthy-unhealthy-foods/",
+            "answer": "there are two ways to eat pizza: the unhealthy way (with extra meat like pepperoni and sausage), or the healthy way loaded with veggies. ... but since pizza is still a source of saturated fat (about five grams) and chock-full of sodium, limit it to once a week and load up on those veggies. {answer_grounding}"
+        }
+    ],
+    "steak": [
+        {
+            "question": "{question_grounding} Is ribeye the best steak?",
+            "url": "https://www.mychicagosteak.com/steak-university/ribeye-steak-vs-sirloin-comparison/",
+            "answer": "if you want a steak with the best sear, a ribeye is your best choice between a rib eye steak or sirloin. this steak cut cooks in its fat content, creating a tender, juicy, and delicious steak. ... allow the steak to rest at least five minutes before serving for the best tender steak. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What is the most flavorful steak?",
+            "url": "http://www.topratedsteakhouses.com/what-is-the-best-steak-to-order-at-a-steakhouse-restaurant/",
+            "answer": "ribeye steak. the ribeye has the most abundant fat marbling. that's why it is considered the most juicy and flavorful of all steaks. this is the choice of real steak aficionados. beefy, robust, and fatty. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What is America's favorite steak?",
+            "url": "https://www.thespruceeats.com/americas-most-popular-steaks-101738",
+            "answer": "rib eye steak valentynvolkov / getty images. rib eye takes the number one spot since most steak aficionados consider this the best all-around cut. the ribeye has the most fat compared to the other cuts, which is why it's such a tender, juicy, and flavorful piece of beef. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What is America's favorite steak?",
+            "url": "https://www.thespruceeats.com/americas-most-popular-steaks-101738",
+            "answer": "rib eye steak valentynvolkov / getty images. rib eye takes the number one spot since most steak aficionados consider this the best all-around cut. the ribeye has the most fat compared to the other cuts, which is why it's such a tender, juicy, and flavorful piece of beef. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What is the most flavorful cut of steak?",
+            "url": "http://www.clovermeadowsbeef.com/best-cut-of-steak/",
+            "answer": "tenderloin \u2013 the most tender cut of steak also known as: filet, filet mignon, chateaubriand. at our house, it's also \u201cjessica's steak\u201d since it's her personal favorite. taste and texture: tenderloin is by far the tenderest cut of beef. it's buttery and mild in flavor. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Why is ribeye the best steak?",
+            "url": "https://www.mychicagosteak.com/steak-university/ribeye-steak-vs-sirloin-comparison/",
+            "answer": "although they're fattier than other steaks, the fat also provides an insane amount of flavor that steak fanatics can't get enough of. the flavor tends to be richer than other cuts, including the sirloin. ribeye is one of the best types of steak for pan-searing, which helps bring its strong, delicious flavors out. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What is the most expensive cut of steak?",
+            "url": "https://www.forbes.com/sites/eustaciahuen/2015/12/31/why-does-the-worlds-most-expensive-steak-cost-3200/",
+            "answer": "at $3,200, the 2000 vintage cote de boeuf (rib steak) is the world's most expensive steak. so what makes a rib steak at boucherie polmard worth so much? {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} How do you pick a good steak?",
+            "url": "https://www.chefsteps.com/activities/selecting-meat-for-purchase",
+            "answer": "when shopping for steaks, it's often best to seek a happy medium between lean and fatty. look for steaks with some marbling, but not completely riddled with fat throughout. try filet mignon for tenderness, or ribeye or strip loin for a balance between tender and flavorful. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Which is better porterhouse or T bone steak?",
+            "url": "https://beef2live.com/story-whats-difference-between-porterhouse-t-bone-steak-0-112651",
+            "answer": "both steaks include a \"t-shaped\" bone with meat on each side. porterhouse steaks are cut from the rear end of the short loin and thus include more tenderloin steak, along with (on the other side of the bone) a large strip steak. t-bone steaks are cut closer to the front, and contain a smaller section of tenderloin. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} What cheese is best with steak?",
+            "url": "https://www.quora.com/What-cheese-pairs-well-with-steak",
+            "answer": "i've used mozzarella, gruyere and provolone on a steak sandwich. they say blue cheese is great on hamburgers. even gouda or edam can taste delicious with a steak. steak is a basic protein taste that can be enhanced with so many different spices, cheeses, veggies, sauces, etc. the best cheese, are the ones you like. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Why does steak taste good?",
+            "url": "https://www.washingtonpost.com/national/health-science/what-makes-a-hamburger-and-other-cooked-meat-so-enticing-to-humans/2013/08/12/8f8e1d72-ff73-11e2-9711-3708310f6f4d_story.html",
+            "answer": "the answer, according to scientists, lies in meat's unique mixture of fat and umami (more about this taste later), spiced up in a process called the maillard reaction \u2014 the browning that happens when we cook a piece of meat. ... and the lack of strong scents is one reason why raw meat is not very appealing. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Is steak better than chicken?",
+            "url": "https://www.tasteinc.com/battle-meats-chicken-vs-beef/",
+            "answer": "beef has a few nutritious advantages over chicken, as it contains more iron and zinc. ... however, chicken is much better for your cardiovascular health, because it has less cholesterol and saturated fat than beef. studies have also shown that red meat can increase the risk of heart disease. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Why is steak bad for you?",
+            "url": "https://www.webmd.com/food-recipes/features/the-truth-about-red-meat",
+            "answer": "a: for heart disease, the answer is pretty clear. some red meats are high in saturated fat, which raises blood cholesterol. high levels of ldl cholesterol increase the risk of heart disease. when it comes to cancer, the answer is not so clear. {answer_grounding}"
+        }
+    ],
+    "ramen": [
+        {
+            "question": "{question_grounding} Are ramen noodles bad for your health?",
+            "url": "https://www.healthline.com/nutrition/ramen-noodles",
+            "answer": "though instant ramen noodles provide iron, b vitamins and manganese, they lack fiber, protein and other crucial vitamins and minerals. additionally, their msg, tbhq and high sodium contents may negatively affect health, such as by increasing your risk of heart disease, stomach cancer and metabolic syndrome. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Why is ramen bad for you?",
+            "url": "https://foodrevolution.org/blog/ramen-noodles/",
+            "answer": "ramen noodles are particularly unhealthy because they contain a food additive called tertiary-butyl hydroquinone (tbhq), a preservative that is a petroleum industry byproduct. they're also incredibly high in sodium, calories and saturated fat. the containers packaging these noodles aren't helping much either. {answer_grounding}"
+        },
+        {
+            "question": "{question_grounding} Are ramen noodles good for weight loss?",
+            "url": "https://www.healthline.com/nutrition/instant-noodles",
+            "answer": "summary: instant noodles are low in calories, which could help decrease calorie intake. however, they are also low in fiber and protein and may not support weight loss or make you feel very full. {answer_grounding}"
+        }
+    ]
+}

@@ -167,7 +167,11 @@ def newSearch_Mingyang(browser, query, lang="en"):
     # paa_answer), "assert the number of questions is not matching number of
     # answers:{} - {}".format(len(paa), len(paa_answer))
     paa_answer = [default_answer()] * len(paa_answer_parent)
-    print(paa_answer[0].get_attribute('textContent'))
+
+    for detected_a in paa_answer_detected:
+        detected_a_index = paa_answer_parent.index(detected_a)
+        paa_answer[detected_a_index] = detected_a
+
     return paa, paa_url, paa_answer
 
 """
@@ -316,8 +320,29 @@ def getCurrentSERP_Mingyang(browser):
         "//span/following-sibling::div[contains(@class,'match-mod-horizontal-padding')]")
     new_paa_url = browser.find_elements_by_xpath(
         "//div[contains(@class,'gy6Qzb')]/div/div/div[@class='g']/div/div/div[@class='r']/a")
-    new_paa_answer = browser.find_elements_by_xpath(
-        "//div[contains(@class,'gy6Qzb')]/div/div/div[@class='mod']/div/span/span[@class='e24Kjd']")
+    # new_paa_answer = browser.find_elements_by_xpath(
+    #     "//div[contains(@class,'gy6Qzb')]/div/div/div[@class='mod']/div/span/span[@class='e24Kjd']")
+    new_paa_answer_detected = browser.find_elements_by_xpath(
+        "//div[contains(@class,'gy6Qzb')]/div/div/div[@class='mod']/div/span/span[@class='e24Kjd']/../..")
+    new_paa_answer_parent = browser.find_elements_by_xpath(
+        "//div[contains(@class,'gy6Qzb')]/div/div/div[@class='mod']/div")
+
+    hideGBar()
+    # print(paa_answer[0].get_attribute("textContent"))
+
+    assert len(new_paa) == len(
+        new_paa_url), "assert the number of questions is not matching number of urls : {}-{}".format(len(paa), len(paa_url))
+    assert len(new_paa_answer_parent) == len(
+        new_paa), "assert the number of question is not matching the number of answer blocks: {}-{}".format(len(paa), len(paa_answer_parent))
+    # assert len(paa) == len(
+    # paa_answer), "assert the number of questions is not matching number of
+    # answers:{} - {}".format(len(paa), len(paa_answer))
+    new_paa_answer = [default_answer()] * len(new_paa)
+
+    for detected_a in new_paa_answer_detected:
+        detected_a_index = new_paa_answer_parent.index(detected_a)
+        new_paa_answer[detected_a_index] = detected_a
+
     cnt = 0
     for q, url, a in zip(new_paa, new_paa_url, new_paa_answer):
         _tmpset.update({cnt: {"q": q, "url": url, "a": a}})

@@ -32,6 +32,8 @@ def config_args():
     args = parser.parse_args()
     return args
 
+# Define the Template for FOOD_GROUNDING
+FOOD_GROUNDING = ["best {}", "favorite {}", "why {}"]
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
@@ -95,37 +97,44 @@ if __name__ == "__main__":
         from gquestions_json import newSearch_Mingyang, crawlQuestions_Mingyang, flatten_paa_list
         for query in queries:
             if not result.get(query, None):
-                # try:
+
                 result[query] = []
 
-                start_paa, start_paa_url, start_paa_answer = newSearch_Mingyang(
-                    browser, query)
-                # print(start_paa_answer[0])
-                # print(start_paa_parent)
-                # print(start_paa_parent.index(start_paa_answer[0]))
+                # Grounding Query with Predefined Phrases
+                for grounding in FOOD_GROUNDING:
+                    try:
+                        searched_query = grounding.format(query)
+                        start_paa, start_paa_url, start_paa_answer = newSearch_Mingyang(
+                            browser, searched_query)
+                        # print(start_paa_answer[0])
+                        # print(start_paa_parent)
+                        # print(start_paa_parent.index(start_paa_answer[0]))
 
-                # initialSet = {}
-                # cnt = 0
-                # for q, url, a in zip(start_paa, start_paa_url, start_paa_answer):
-                #     initialSet.update({cnt: {"q": q, "url": url, "a": a}})
-                #     cnt += 1
+                        initialSet = {}
+                        cnt = 0
+                        for q, url, a in zip(start_paa, start_paa_url, start_paa_answer):
+                            initialSet.update(
+                                {cnt: {"q": q, "url": url, "a": a}})
+                            cnt += 1
 
-                # paa_list = []
+                        paa_list = []
 
-                # crawlQuestions_Mingyang(start_paa, start_paa_url, start_paa_answer,
-                #                         paa_list, initialSet, query, browser, depth)
-                # # print(paa_list)
-                # query_questions = []
-                # flatten_paa_list(paa_list, query_questions, query)
+                        crawlQuestions_Mingyang(start_paa, start_paa_url, start_paa_answer,
+                                                paa_list, initialSet, searched_query, browser, depth)
+                        # print(paa_list)
+                        query_questions = []
+                        flatten_paa_list(
+                            paa_list, query_questions, searched_query)
 
-                # result[query] += query_questions.copy()
+                        result[query] += query_questions.copy()
 
-                # # Save the result to a json file, make sure the old ones are good
-                # with open(args.out_dir, 'w') as fp:
-                #     json.dump(result, fp, sort_keys=False, indent=4)
-                # except:
-                #     print("[FAILED_PPA] Unable to extract the questions for: {}".format(query))
+                        # Save the result to a json file, make sure the old ones are
+                        # good
+                        with open(args.out_dir, 'w') as fp:
+                            json.dump(result, fp, sort_keys=False, indent=4)
+                    except:
+                        print("[FAILED_PPA] Unable to extract the questions for: {}".format(
+                            searched_query))
 
         # print(result)
-
     browser.close()

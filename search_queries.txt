@@ -1,1 +1,4 @@
-favorite sushi
+sushi
+pizza
+steak
+ramen

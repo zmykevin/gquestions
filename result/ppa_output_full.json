@@ -1,1 +1,910 @@
-{}
+{
+    "sushi": [
+        {
+            "question": "Where is the best sushi in the world?",
+            "url": "https://travel.amerikanki.com/best-sushi-restaurants-in-the-world/",
+            "answer": "1. Sukiyabashi Jiro, Tokyo, Japan. Sukiyabashi Jiro is considered to be the world's most celebrated sushi restaurant with a total of three Michelin stars from the Michelin Guide.Nov 1, 2017"
+        },
+        {
+            "question": "Can Muslims eat sushi?",
+            "url": "https://simple.wikipedia.org/wiki/Halal",
+            "answer": "Pork is forbidden. According to the Shafi'i, Maliki and Hanbali branches of Islam, all fish and shellfish would be halal. According to the Shi'i branch of Islam, Fish that has scales is halal, but animals that live both in the water and on land are not permissible (for example, frogs may not be eaten)."
+        },
+        {
+            "question": "Can I eat sushi everyday?",
+            "url": "https://www.livestrong.com/article/553315-frequent-sushi-consumption/",
+            "answer": "Fortunately, there isn't typically too much fish in sushi; unless you're eating sashimi, you'll be consuming other ingredients, too. This means that you'd have to eat sushi every day or eat a lot of sushi each week to be in danger of mercury poisoning.Mar 20, 2019"
+        },
+        {
+            "question": "Why is sushi so expensive?",
+            "url": "https://trulyexperiences.com/blog/sushi-prized/",
+            "answer": "One of the reasons why sushi is so prized is because it is very labour intensive to produce. ... Also, fresh and delicious sushi requires high quality fresh ingredients. Fish that is good enough to be considered 'sushi grade' is very expensive and some of the finest quality fish such as tuna can cost hundreds per pound.Apr 22, 2015"
+        },
+        {
+            "question": "What is the most expensive sushi fish?",
+            "url": "https://www.bbc.com/news/av/world-asia-46767850/tuna-king-kiyoshi-kimura-on-his-most-expensive-fish",
+            "answer": "A Japanese sushi tycoon has paid a whopping $3.1m (\u00a32.5m) for a giant tuna making it the world's most expensive. Kiyoshi Kimura bought the 278kg (612lbs) bluefin tuna, which is an endangered species, at first new year's auction in Tokyo's new fish market.Jan 5, 2019"
+        },
+        {
+            "question": "Is sushi bad for your health?",
+            "url": "https://www.forbes.com/sites/brucelee/2016/07/10/is-sushi-healthy-it-depends/",
+            "answer": "The bottom line is that sushi can be quite healthy or unhealthy depending on what ingredients are used, how it is prepared and how much you eat. Fresh fish, particularly salmon, trout and tuna, can have plenty of protein and omega-3 fatty acids.Jul 10, 2016"
+        },
+        {
+            "question": "Is sushi frozen in Japan?",
+            "url": "https://www.nytimes.com/2004/04/08/nyregion/sushi-fresh-from-the-deep-the-deep-freeze.html",
+            "answer": "Many sushi bars, in Japan and elsewhere, routinely use frozen fish when fresh is unavailable or more expensive than the market will bear. ''In Japan,'' Mr. Kawauchi said, ''50 percent of the sushi and sashimi is frozen.Apr 7, 2004"
+        },
+        {
+            "question": "What do sushi chefs say when you leave?",
+            "url": "https://www.easyhomemadesushi.com/what-do-sushi-chefs-say-when-you-enter/",
+            "answer": "Today I will tell you 'what do the sushi chefs say when you enter?' They greet the guests by saying 'irasshaimase' which means 'welcome to the restaurant'."
+        },
+        {
+            "question": "What is a sushi chef called?",
+            "url": "https://en.wikipedia.org/wiki/Itamae",
+            "answer": "Itamae as sushi chef In the western world, an itamae is often associated with sushi (also commonly referred to simply as \"sushi chefs\"). In Japan, becoming an itamae of sushi requires years of training and apprenticeship."
+        },
+        {
+            "question": "How much does it cost to eat at Sushi Nakazawa?",
+            "url": "https://www.businessinsider.com/sushi-nakazawa-nyc-reviews-2013-10",
+            "answer": "The price of the Omakase menu at Sushi Nakazawa is $150 per person at the sushi bar or $120 per person in the dining room, which gets you about twenty pieces of nigiri (a small lump of rice with the fish on top).Oct 8, 2013"
+        },
+        {
+            "question": "How do you eat ginger sushi?",
+            "url": "https://www.latimes.com/food/dailydish/la-dd-tokyo-sushi-chef-proper-way-eat-sushi-20140828-story.html",
+            "answer": "Just dip what Yasuda says is \u201cenough\u201d to taste the soy sauce, then eat it. And don't ever, ever eat the pickled ginger with your sushi. It's meant to be eaten by itself, after you've eaten a piece of sushi.Aug 28, 2014"
+        },
+        {
+            "question": "Is Nobu expensive?",
+            "url": "https://www.cnbc.com/2019/08/27/nobu-is-expensive-sushi-worth-the-money.html",
+            "answer": "The average meal at Nobu Downtown costs $135 per person. ... A two-hour dinner at Masa costs $595 per person, not including beverages and tax.Aug 27, 2019"
+        },
+        {
+            "question": "Is Nobu a Michelin star?",
+            "url": "https://www.telegraph.co.uk/foodanddrink/foodanddrinknews/11120946/Nobus-two-London-restaurants-stripped-of-Michelin-star-status.html",
+            "answer": "London's famous celebrity hangout Nobu has been stripped of its Michelin star in the latest UK guide. ... Nobu opened in London's Metropolitan Hotel in 1997 and was awarded a Michelin star the same year for the 1998 Guide.Sep 25, 2014"
+        },
+        {
+            "question": "Does Robert De Niro owns Nobu?",
+            "url": "https://www.cnn.com/2018/09/28/business/robert-de-niro-nobu/index.html",
+            "answer": "Robert De Niro with his co-founders Nobu Matsuhisa and Meir Teper (left to right). De Niro, who was already in the restaurant business -- he co-owns the Tribeca Grill in New York City, which opened in 1990 -- introduced Matsuhisa's food to Teper.Sep 28, 2018"
+        },
+        {
+            "question": "What is Nobu known for?",
+            "url": "https://en.wikipedia.org/wiki/Nobu_Matsuhisa",
+            "answer": "Unsourced material may be challenged and removed. Nobuyuki \"Nobu\" Matsuhisa (\u677e\u4e45 \u4fe1\u5e78 Matsuhisa Nobuyuki; born March 10, 1949) is a Japanese celebrity chef and restaurateur known for his fusion cuisine blending traditional Japanese dishes with Peruvian ingredients. His signature dish is black cod in miso."
+        },
+        {
+            "question": "What is the most popular sushi?",
+            "url": "https://www.bustle.com/p/the-most-popular-sushi-orders-on-doordash-include-a-lot-of-avocado-18011470",
+            "answer": ""
+        },
+        {
+            "question": "What day should you not eat sushi?",
+            "url": "https://www.foodrepublic.com/2012/07/09/the-12-sushi-commandments/",
+            "answer": "And On The 7th Day, He Did Not Eat Sushi Try to avoid eating sushi on Sundays since Japanese restaurants do not typically get fresh fish delivered (and sometimes not even on Saturdays). Quality sushi restaurants are also usually closed on Mondays.Jul 9, 2012"
+        },
+        {
+            "question": "What is best sushi for beginners?",
+            "url": "https://www.rokaakor.com/new-to-sushi-a-simple-guide-to-eating-sushi-for-beginners/",
+            "answer": ""
+        },
+        {
+            "question": "What is the most popular type of sushi in Japan?",
+            "url": "https://www.tsunagujapan.com/20-most-common-types-of-sushi-in-japan/",
+            "answer": ""
+        },
+        {
+            "question": "How often do Japanese eat sushi?",
+            "url": "https://www.japan-guide.com/topic/0106.html",
+            "answer": "In Japan, sushi is usually still considered a special meal for special occasions, and is, therefore, eaten relatively rarely. Only about one quarter of the survey respondents eat sushi more than once per month, another quarter enjoys it just about once a month, and 35 percent once in two to four months."
+        },
+        {
+            "question": "What are the best tasting sushi rolls?",
+            "url": "https://spoonuniversity.com/lifestyle/11-best-classic-sushi-rolls-ranked",
+            "answer": ""
+        },
+        {
+            "question": "What is sushi called in Japan?",
+            "url": "https://www.thekitchn.com/what-exactly-is-sushi-103062",
+            "answer": "The word \u201csushi\u201d is often ambiguous for non-native Japanese. We think of it as being interchangeable with raw fish. Sushi is vinegared rice topped with other ingredients. Sashimi, which is slices of raw fish alone, is not sushi because it isn't accompanied with rice.Dec 3, 2009"
+        },
+        {
+            "question": "What's the best sushi for beginners?",
+            "url": "https://www.allaboutsushiguide.com/best-sushi-for-beginners.html",
+            "answer": "And a good one to start off with I think is a California Roll. This will be your best sushi for beginners recommendation # 1. It is usually made of crab meat (real or imitation), cucumber and avocado."
+        },
+        {
+            "question": "Is California roll Raw?",
+            "url": "https://www.sushifaq.com/sushi-sashimi-info/sushi-for-beginners/",
+            "answer": "Not all sushi is raw, which may come as a surprise to some, and you can make an entire meal from cooked food. Eel (unagi and anago) is always served cooked, and usually with a sweet and savory sauce. California rolls also have avocado, cucumber and cooked imitation crab meat (called kamaboko or surimi)."
+        },
+        {
+            "question": "Why is sushi raw?",
+            "url": "https://share.upmc.com/2018/03/sushi-safety-risks/",
+            "answer": "Sushi is a problematic food because it's made with raw fish \u2014 according to the Food and Drug Administration, raw fish can harbor parasites, bacteria, and viruses.Mar 8, 2018"
+        },
+        {
+            "question": "What is a California roll made of?",
+            "url": "https://en.wikipedia.org/wiki/California_roll",
+            "answer": "A California roll or California maki is a makizushi sushi roll that is usually rolled inside-out, and containing cucumber, crab or imitation crab, and avocado."
+        },
+        {
+            "question": "What are the names of cooked sushi?",
+            "url": "https://delishably.com/meat-dishes/The-Different-Kinds-of-Sushi",
+            "answer": ""
+        },
+        {
+            "question": "What is sushi called without rice?",
+            "url": "https://www.diffen.com/difference/Nigiri_vs_Sashimi",
+            "answer": "Introduction. Nigiri is a type of sushi made of thin slices of raw fish over pressed vinegared rice. Sashimi is thinly sliced raw meat\u2014usually fish, such as salmon or tuna\u2014that is served without rice."
+        },
+        {
+            "question": "What does SS mean in sushi?",
+            "url": "https://www.thedailymeal.com/eat/16-confusing-sushi-terms-decoded-slideshow",
+            "answer": "Photo Modified: Flickr / John / CC BY-SA 4.0. As opposed to sushi rolls (maki), nigiri is the style of sushi with an oblong piece of hand-pressed rice topped with neta, or raw fish. Many sushi chefs will place a bit of wasabi between the rice and the topping.Feb 4, 2016"
+        },
+        {
+            "question": "Can you order sushi without rice?",
+            "url": "https://www.wholesomeyum.com/recipes/keto-low-carb-sushi-rolls-recipe-healthy/",
+            "answer": "Usually, low carb sushi choices are pretty limited. Pretty much all sushi is not low carb, because of the rice in it, and sometimes also due to the sauces. At most sushi restaurants, you really have just one keto friendly option, which is sashimi. Sadly, sashimi is pretty boring.Oct 7, 2017"
+        },
+        {
+            "question": "Why should you eat sushi?",
+            "url": "https://www.oyakata.com.pl/en/oyakata-masters-book/japanese-cuisine/why-you-should-eat-sushi",
+            "answer": "Due to it being low-calorie and high in carbohydrates, nutrients and omega-3 acids, sushi can be considered healthy. ... Sushi is easily digestible due to its easily-absorbed ingredients, also when you are on a diet."
+        },
+        {
+            "question": "How often do Japanese eat sushi?",
+            "url": "https://www.japan-guide.com/topic/0106.html",
+            "answer": "In Japan, sushi is usually still considered a special meal for special occasions, and is, therefore, eaten relatively rarely. Only about one quarter of the survey respondents eat sushi more than once per month, another quarter enjoys it just about once a month, and 35 percent once in two to four months."
+        },
+        {
+            "question": "Can Muslims eat sushi?",
+            "url": "https://simple.wikipedia.org/wiki/Halal",
+            "answer": "Pork is forbidden. According to the Shafi'i, Maliki and Hanbali branches of Islam, all fish and shellfish would be halal. According to the Shi'i branch of Islam, Fish that has scales is halal, but animals that live both in the water and on land are not permissible (for example, frogs may not be eaten)."
+        },
+        {
+            "question": "Why is sushi bad for you?",
+            "url": "https://www.forbes.com/sites/brucelee/2016/07/10/is-sushi-healthy-it-depends/",
+            "answer": "Essentially, sushi is something with rice mixed with vinegar. ... The bottom line is that sushi can be quite healthy or unhealthy depending on what ingredients are used, how it is prepared and how much you eat. Fresh fish, particularly salmon, trout and tuna, can have plenty of protein and omega-3 fatty acids.Jul 10, 2016"
+        },
+        {
+            "question": "What is a California roll made of?",
+            "url": "https://en.wikipedia.org/wiki/California_roll",
+            "answer": "A California roll or California maki is a makizushi sushi roll that is usually rolled inside-out, and containing cucumber, crab or imitation crab, and avocado."
+        },
+        {
+            "question": "Is Sushi high in iron?",
+            "url": "https://www.healthline.com/nutrition/is-sushi-healthy",
+            "answer": "It contains many nutrients, including calcium, magnesium, phosphorus, iron, sodium, iodine, thiamine, and vitamins A, C, and E (15). ... However, one roll of sushi provides very little seaweed, which makes it unlikely to contribute much to your daily nutrient needs.Jun 12, 2019"
+        },
+        {
+            "question": "Is Subway really healthy?",
+            "url": "https://www.healthline.com/health/food-nutrition/subway-nutrition-facts",
+            "answer": "The bottom line. Subway offers a better variety of healthy meal options than many other fast food restaurants. In general, Subway's meals are low in sugar and a decent source of fiber and protein, however, many are also loaded with fat and sodium.Oct 10, 2016"
+        },
+        {
+            "question": "Why is sushi so expensive?",
+            "url": "https://trulyexperiences.com/blog/sushi-prized/",
+            "answer": "One of the reasons why sushi is so prized is because it is very labour intensive to produce. ... Also, fresh and delicious sushi requires high quality fresh ingredients. Fish that is good enough to be considered 'sushi grade' is very expensive and some of the finest quality fish such as tuna can cost hundreds per pound.Apr 22, 2015"
+        },
+        {
+            "question": "What is the most expensive sushi fish?",
+            "url": "https://www.bbc.com/news/av/world-asia-46767850/tuna-king-kiyoshi-kimura-on-his-most-expensive-fish",
+            "answer": "A Japanese sushi tycoon has paid a whopping $3.1m (\u00a32.5m) for a giant tuna making it the world's most expensive. Kiyoshi Kimura bought the 278kg (612lbs) bluefin tuna, which is an endangered species, at first new year's auction in Tokyo's new fish market.Jan 5, 2019"
+        },
+        {
+            "question": "Is sushi frozen in Japan?",
+            "url": "https://www.nytimes.com/2004/04/08/nyregion/sushi-fresh-from-the-deep-the-deep-freeze.html",
+            "answer": "Many sushi bars, in Japan and elsewhere, routinely use frozen fish when fresh is unavailable or more expensive than the market will bear. ''In Japan,'' Mr. Kawauchi said, ''50 percent of the sushi and sashimi is frozen.Apr 7, 2004"
+        },
+        {
+            "question": "What kind of food is sushi?",
+            "url": "https://en.wikipedia.org/wiki/Sushi",
+            "answer": "Sushi (\u3059\u3057, \u5bff\u53f8, \u9ba8, pronounced [s\u026f\u0325\u0255i\ua71c] or [s\u026f\u0325\ua71c\u0255i]) is a Japanese dish of prepared vinegared rice (\u9ba8\u98ef sushi-meshi), usually with some sugar and salt, accompanying a variety of ingredients (\u30cd\u30bf neta), such as seafood, vegetables, and occasionally tropical fruits."
+        },
+        {
+            "question": "Is sushi good for losing weight?",
+            "url": "https://www.theglobeandmail.com/life/health-and-fitness/ask-a-health-expert/how-much-sushi-can-i-eat-if-i-want-to-lose-weight/article9230991/",
+            "answer": "The answer: When it comes to lower-calorie cuisine, it's hard to beat Japanese \u2013 especially sushi. It's not deep-fried or smothered in sauce, and most types of sushi have no added fat. It can also be a good source of omega-3 fatty acids from the fish it's made with. ... On average, one piece of a maki roll has 45 calories.Mar 4, 2013"
+        },
+        {
+            "question": "Is avocado sushi healthy?",
+            "url": "https://www.webmd.com/diet/ss/slideshow-best-worst-sushi-health",
+            "answer": "Avocado is high in heart-healthy fats and fiber, and it's packed with other nutrients.Jul 2, 2018"
+        },
+        {
+            "question": "Is it safe to eat sashimi?",
+            "url": "https://www.livescience.com/32163-is-sushi-safe-to-eat.html",
+            "answer": "Sushi is safe to eat as long as it has been prepared properly. ... Sushi lovers need not fret about the raw fish they consume, food scientists say, as long as the sushi has been prepared properly according to regulations by the Food and Drug Administration.Oct 3, 2012"
+        },
+        {
+            "question": "How many calories is sushi?",
+            "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/calories-in-sushi/faq-20058179",
+            "answer": "Nutrition and healthy eating Because most types of seafood are relatively low in calories, most kinds of sushi are as well. For example, a six-piece sushi roll made with fish and vegetables is typically 200 to 250 calories. However, calories in sushi vary depending on preparation."
+        }
+    ],
+    "pizza": [
+        {
+            "question": "What is the best pizza in the United States?",
+            "url": "https://www.pizzatoday.com/news/pizza-headlines/guide-to-the-2018-national-best-pizzas-lists/",
+            "answer": "TripAdvisor Delivers America's 10 Best Pizzerias Boston beats New York for Top Pizzeria Crown as Regina Pizzeria Ranks No. 1 in the U.S. Bleecker Street Pizza takes second and Nashville earns two of the Top 10 spots.Dec 10, 2018"
+        },
+        {
+            "question": "What is the number 1 pizza chain in America?",
+            "url": "https://www.pizzatoday.com/news/pizza-headlines/dominos-overtakes-pizza-hut-as-no-1-pizza-chain/",
+            "answer": ""
+        },
+        {
+            "question": "What country eats the most pizza?",
+            "url": "https://www.fromthegrapevine.com/lifestyle/every-country-good-something-information-data-david-mccandless",
+            "answer": "Norway / Pizza eaters Per capita, the country of Norway consumes the most pizza \u2013 about 11 pies per person per year \u2013 of any nation on Earth. Norwegians mostly eat frozen pizzas, with smaller percentages going to restaurants and cooking fresh pizza at home.May 4, 2017"
+        },
+        {
+            "question": "What city has the best pizza?",
+            "url": "https://www.businessinsider.com/top-10-pizza-cities-in-america-2015-7",
+            "answer": ""
+        },
+        {
+            "question": "What is the most delicious pizza?",
+            "url": "https://www.thekitchn.com/these-are-the-5-most-loved-pizza-toppings-ever-255458",
+            "answer": ""
+        },
+        {
+            "question": "Is pizza made in Italy?",
+            "url": "https://en.wikipedia.org/wiki/History_of_pizza",
+            "answer": "Modern pizza developed in Naples when tomato was added to the focaccia in the late 18th century. The word pizza was first documented in 997 A.D. in Gaeta and successively in different parts of Central and Southern Italy. Pizza was mainly eaten in Italy and by emigrants from there."
+        },
+        {
+            "question": "What is the pizza capital of the world?",
+            "url": "https://slice.seriouseats.com/2013/08/old-forge-pennsylvania-pizza.html",
+            "answer": "But the town of Old Forge, Pennsylvania claims to be the \"Pizza Capital of the World.\" Pizza is almost a religious experience in Old Forge, particularly on Friday nights during Lent, when you'll find lines out the door. Old Forge is located in northeastern Pennsylvania, just 5 miles from Scranton.Aug 1, 2013"
+        },
+        {
+            "question": "Who sells the most pizza in the US?",
+            "url": "https://clark.com/shopping-retail/here-are-the-top-10-pizza-chains-by-sales/",
+            "answer": ""
+        },
+        {
+            "question": "Why is Costco pizza so good?",
+            "url": "https://www.cosmopolitan.com/food-cocktails/news/a41334/costco-pizza-robot/",
+            "answer": "It turns out the reason your 800-calorie, $1.99 Costco slice tastes so freaking good is because a magical pizza robot is perfectly distributing the sauce on every pizza so each one of your bites is a cohesive and complete taste of wholesale goodness.Jun 2, 2015"
+        },
+        {
+            "question": "What is America's favorite pizza company?",
+            "url": "https://finance.yahoo.com/news/lebron-james-backed-pizza-chain-is-americas-favorite-survey-160301513.html",
+            "answer": "Blaze Pizza, a pizza chain backed by NBA champion LeBron James, took the top spot as America's overall favorite fast-food pizza.Aug 2, 2019"
+        },
+        {
+            "question": "Which pizza franchise is the best?",
+            "url": "https://www.franchisechatter.com/2017/10/15/the-25-best-pizza-franchises-of-20172018/",
+            "answer": ""
+        },
+        {
+            "question": "Is Italian pizza better than American?",
+            "url": "https://spoonuniversity.com/lifestyle/american-vs-italian-pizza-take-your-pick",
+            "answer": "American style pizzas tend to have a much thicker crust with more chew, it's a lot denser and therefore holds more ingredients. Not always, but with most takeaway pizzas there tends to be much more cheese and tomato sauce, as well as toppings. Size wise, American style pizza takes the cake."
+        },
+        {
+            "question": "Why don't they cut pizza in Italy?",
+            "url": "https://www.quora.com/In-Italy-when-you-order-a-full-pizza-why-does-it-come-unsliced",
+            "answer": "The norm is to use a fork and knife to do it. In Italy of course, as there is a thin crust, there is no need for a special pizza knife, like those in North America. As a result the end customer is able to slice it themselves because the crust is thinner."
+        },
+        {
+            "question": "Do Italians put meat on pizza?",
+            "url": "https://parade.com/844889/manuzangara/10-classic-italian-pizza-recipes-you-should-try-tonight/",
+            "answer": "However, whatever you choose, remember that Italian pizza does not come overflowing with toppings. Generally speaking, we use vegetables (often grilled or raw), different cheeses, tuna and cured meats. We NEVER put meat (or chicken!) on our pizza, the only exception being sausage.Jan 4, 2017"
+        },
+        {
+            "question": "What do they call pizza in Italy?",
+            "url": "https://en.wikipedia.org/wiki/Pizza",
+            "answer": "Pizza (Italian: [\u02c8pittsa], Neapolitan: [\u02c8pitts\u0259]) is a savory dish of Italian origin, consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and various other ingredients (anchovies, olives, meat, etc.) baked at a high temperature, traditionally in a wood-fired oven."
+        },
+        {
+            "question": "What is the most popular pizza?",
+            "url": "https://www.businessinsider.com/the-most-popular-pizza-toppings-chart-2013-10",
+            "answer": "Here's A Pie Chart Of The Most Popular Pizza Toppings Pepperoni dominates as the most popular pizza topping. A whopping 36% of people order pepperoni on their pizzas, according to research by business advisor Brian Roemmele. Roemmele researched point-of-sale data from 604 pizza locations across the United States.Oct 10, 2013"
+        },
+        {
+            "question": "What is the #1 pizza chain?",
+            "url": "https://www.pizzatoday.com/news/pizza-headlines/dominos-overtakes-pizza-hut-as-no-1-pizza-chain/",
+            "answer": ""
+        },
+        {
+            "question": "Who is the number 1 pizza chain?",
+            "url": "https://mentalfloss.com/article/65518/top-10-us-pizza-chains",
+            "answer": ""
+        },
+        {
+            "question": "What are the most popular pizza flavors?",
+            "url": "https://www.thekitchn.com/these-are-the-5-most-loved-pizza-toppings-ever-255458",
+            "answer": ""
+        },
+        {
+            "question": "Which pizza is best to eat?",
+            "url": "https://www.foxnews.com/health/top-10-nutritional-pizza-toppings",
+            "answer": ""
+        },
+        {
+            "question": "What is America's favorite pizza?",
+            "url": "https://www.huffpost.com/entry/most-popular-pizza-toppings-americans_l_5c5a02fee4b00187b555eea3",
+            "answer": "According to the research, 52 percent of Americans surveyed said pepperoni is one of their three favorite pizza toppings. Thirty-four percent included sausage in their top three, and 31 percent listed mushrooms. Bacon and plain/mozzarella cheese each were named top-three picks by 20 percent of respondents.Feb 8, 2019"
+        },
+        {
+            "question": "What is the least popular pizza topping?",
+            "url": "https://blog.slicelife.com/the-5-least-popular-pizza-toppings/",
+            "answer": ""
+        },
+        {
+            "question": "What are people's favorite pizza toppings?",
+            "url": "https://www.huffingtonpost.com/2013/11/12/popular-pizza-toppings_n_4261085.html",
+            "answer": ""
+        },
+        {
+            "question": "What countries eat the most pizza?",
+            "url": "https://www.fromthegrapevine.com/lifestyle/every-country-good-something-information-data-david-mccandless",
+            "answer": "Norway / Pizza eaters Per capita, the country of Norway consumes the most pizza \u2013 about 11 pies per person per year \u2013 of any nation on Earth. Norwegians mostly eat frozen pizzas, with smaller percentages going to restaurants and cooking fresh pizza at home.May 4, 2017"
+        },
+        {
+            "question": "What are the top 3 pizza toppings?",
+            "url": "https://www.huffpost.com/entry/popular-pizza-toppings_n_4261085",
+            "answer": ""
+        },
+        {
+            "question": "Why is pizza healthy?",
+            "url": "https://www.insider.com/pizza-is-actually-good-for-you-2018-12",
+            "answer": "The average slice of pizza has 12 grams of protein, according to Chelsey Amer, a registered dietitian. Pizza can help you absorb Lycopene, an antioxidant found in brightly-colored fruits and vegetables, that may lower blood pressure rates. Fresh vegetables are one of the healthiest pizza toppings, according to Amer.Dec 13, 2018"
+        },
+        {
+            "question": "What is the best pizza topping combination?",
+            "url": "https://www.cheatsheet.com/culture/best-pizza-topping-combinations.html/",
+            "answer": ""
+        },
+        {
+            "question": "What is a good pizza combo?",
+            "url": "https://www.pizzaplanet.com/best-pizza-topping-combinations-unique-flavors/",
+            "answer": ""
+        },
+        {
+            "question": "How much is tip for pizza delivery?",
+            "url": "https://www.thebalancecareers.com/office-food-delivery-tipping-3514821",
+            "answer": "For delivery orders of $20 or less, it is customary to offer a minimum tip of $3. For any amount over $20, tip 10 to 15 percent but never less than $5. Before opting for that $3 tip on small orders, consider whether you would make the same trip for a mere three bucks."
+        },
+        {
+            "question": "What is the most popular two topping pizza?",
+            "url": "https://www.quora.com/What-is-the-best-two-topping-pizza",
+            "answer": ""
+        },
+        {
+            "question": "What are the benefits of eating pizza?",
+            "url": "https://www.pizzaplanet.com/health-benefits-pizza/",
+            "answer": "Combined, these nutrients go a long way to protect your heart and prevent disease. Other sources of nutrients in pizza include cheese, which contains calcium, protein and vitamin A. Another source of nutrients in pizza is the dough, which contains some antioxidants due to the chemical reactions of the yeast.Feb 10, 2015"
+        },
+        {
+            "question": "Is KFC chicken healthy?",
+            "url": "https://www.thedailymeal.com/eat/healthiest-and-unhealthiest-menu-items-20-biggest-restaurant-chains-gallery/slide-27",
+            "answer": "KFC: Healthiest If you want chicken at KFC but want to keep it healthy, go with their Kentucky Grilled Chicken. A breast contains 210 calories, 7 grams of fat, 2 grams of saturated fat, 130 milligrams of cholesterol, and 710 milligrams of sodium.May 10, 2018"
+        },
+        {
+            "question": "Is pizza good for diabetics?",
+            "url": "https://www.everydayhealth.com/type-2-diabetes/diet/type-2-diabetes-and-fast-food/",
+            "answer": "Pizza may actually be a good choice for people with type 2 diabetes; just be sure to order the thin-crust type and top it with vegetables rather than high-fat meats and extra cheese. It's also a good idea to watch portion sizes.Jul 6, 2017"
+        },
+        {
+            "question": "Why is pizza so tasty?",
+            "url": "http://specertified.com/blog/view/why-does-pizza-taste-so-good-the-science-of-the-5-basic-tastes-and-pizzas-c",
+            "answer": "So Why Exactly Does Pizza Taste So Good? ... Right when we take that first bite of warm pizza crust topped with tomato sauce and cheese, our taste buds are stimulated by glutamate, and so we're hooked and want more. Some common pizza toppings like mushrooms can even add more glutamate, enhancing the flavor.Nov 20, 2014"
+        },
+        {
+            "question": "What is the most delicious pizza?",
+            "url": "https://www.thekitchn.com/these-are-the-5-most-loved-pizza-toppings-ever-255458",
+            "answer": ""
+        },
+        {
+            "question": "How is pizza made?",
+            "url": "https://dailydolphin.hbcsd.org/3356/uncategorized/how-is-pizza-made/",
+            "answer": "Today, pizza is made by, first, assembling the dough. This is made out of yeast, flour, water, salt, olive oil, and a little bit of sugar. When the ingredients are mixed and the dough is chilled, you roll it out into a big circle, leaving the edge with a crust. ... Pizza can also be cooked by doing woodfire.Nov 17, 2017"
+        },
+        {
+            "question": "Why pizza is your favorite food?",
+            "url": "https://medium.com/@bhushansatyal90/my-favorite-food-pizza-26b63387c47b",
+            "answer": "Among the number of food Pizza is my favorite food because it tastes and smells fabulous. The pizza itself looks so yummy, crispy and so cheesy. ... Nearly any ingredient can be put on pizza. Those diced vegetables, jalapenos, tomato sauce, cheese and mushrooms makes me eat more and more like a unique work of art.Apr 8, 2018"
+        },
+        {
+            "question": "Why is pizza so unhealthy?",
+            "url": "https://www.healthline.com/nutrition/is-pizza-healthy",
+            "answer": "Frozen and fast-food pizzas can contain ingredients like preservatives, colorings and unhealthy fats. However, all pizzas, no matter how they're prepared, are typically made using refined wheat flour. This type of flour is low in fiber and, therefore, less filling than whole-grain flours.Dec 12, 2018"
+        },
+        {
+            "question": "Can pizza make you fat?",
+            "url": "https://www.cosmopolitan.com/health-fitness/a47791/what-really-happens-to-your-body-after-eating-one-slice-of-pepperoni-pizza/",
+            "answer": "It won't even affect your weight. In the short term, your weight will only increase by the actual weight of the pizza, according to Angelone. (Only eating excess calories over time will contribute to fat gains, she adds.)Oct 15, 2015"
+        },
+        {
+            "question": "Is Domino's Pizza junk food?",
+            "url": "https://www.quora.com/Is-eating-Dominos-Pizza-good-for-your-health",
+            "answer": "Domino's pizza is apparently a Good Choice for a Healthy Diet. Pizza is essentially a meal in itself, as you can find foods from the four basic food groups in one slice. A crunchy thin crust Domino's pizza contains less than half the carbohydrates of Domino's classic hand-tossed pizza.Dec 8, 2015"
+        },
+        {
+            "question": "Is Subway bad for you?",
+            "url": "https://www.healthline.com/health/food-nutrition/subway-nutrition-facts",
+            "answer": "The bottom line. Subway offers a better variety of healthy meal options than many other fast food restaurants. In general, Subway's meals are low in sugar and a decent source of fiber and protein, however, many are also loaded with fat and sodium.Oct 10, 2016"
+        },
+        {
+            "question": "Is pizza really that bad for you?",
+            "url": "https://www.goodhousekeeping.com/health/diet-nutrition/g1662/healthy-unhealthy-foods/",
+            "answer": "There are two ways to eat pizza: The unhealthy way (with extra meat like pepperoni and sausage), or the healthy way loaded with veggies. ... But since pizza is still a source of saturated fat (about five grams) and chock-full of sodium, limit it to once a week and load up on those veggies.Nov 25, 2014"
+        },
+        {
+            "question": "How many slices of pizza can you eat?",
+            "url": "https://www.sharecare.com/health/nutrition-and-weight-loss/how-eat-pizza-lose-weight",
+            "answer": "To enjoy pizza and still lose weight, it's all about portion and toppings. With pizza, there's really no standard serving size; one slice contains about 300 calories, which means one slice fits into a balanced diet, even when you're eating healthy. One slice, not two, four, or a whole pie."
+        },
+        {
+            "question": "Is it OK to eat pizza once a month?",
+            "url": "https://www.quora.com/Can-I-eat-a-pizza-once-a-month-with-no-worries",
+            "answer": "The truth is eating pizza once a month is not going to hurt you at all. In fact you can eat pizza once a week if you want and you'll still be o.k. ... Even though pizza is very high in fat and carbohydrates they are not necessarily the enemy."
+        },
+        {
+            "question": "What's healthier pizza or burger?",
+            "url": "https://www.practo.com/healthfeed/which-is-healthier-pizza-or-burger-5552/post",
+            "answer": "2 pizza slices contain 18 gram of total fat out of which 8 gram is the harmful saturated fat. On the other hand, a burger contains 19.8 gram of total fat, out of which 9.2 comes from saturated fat. Although low in total calories, a burger is higher in fat content than pizza slices.Jan 20, 2016"
+        }
+    ],
+    "steak": [
+        {
+            "question": "Which cut of steak is best?",
+            "url": "https://www.bodybuilding.com/content/the-best-of-beef-top-10-steak-cuts.html",
+            "answer": ""
+        },
+        {
+            "question": "What's better sirloin or ribeye?",
+            "url": "https://spoonuniversity.com/lifestyle/sirloin-vs-ribeye",
+            "answer": "With a bit of connective tissue and not much fat, sirloin is a lean and firm cut, which makes it a little less flavorful than a ribeye steak. ... Ribeye steaks are fattier than sirloin, making them juicier and richer in flavor."
+        },
+        {
+            "question": "Is ribeye the best steak?",
+            "url": "https://www.mychicagosteak.com/steak-university/ribeye-steak-vs-sirloin-comparison/",
+            "answer": "If you want a steak with the best sear, a ribeye is your best choice between a rib eye steak or sirloin. This steak cut cooks in its fat content, creating a tender, juicy, and delicious steak. ... Allow the steak to rest at least five minutes before serving for the best tender steak."
+        },
+        {
+            "question": "Which cut of steak is the most tender?",
+            "url": "http://www.clovermeadowsbeef.com/best-cut-of-steak/",
+            "answer": ""
+        },
+        {
+            "question": "What is the most flavorful steak?",
+            "url": "http://www.topratedsteakhouses.com/what-is-the-best-steak-to-order-at-a-steakhouse-restaurant/",
+            "answer": "Ribeye Steak. The ribeye has the most abundant fat marbling. That's why it is considered the most juicy and flavorful of all steaks. This is the choice of real steak aficionados. Beefy, robust, and fatty."
+        },
+        {
+            "question": "Which is Better New York strip or ribeye?",
+            "url": "https://www.bbqdryrubs.com/new-york-strip-vs-ribeye/",
+            "answer": "Ribeye is More Tender Than New York Strip Although these are both premium steaks the ribeye is consistently a more tender steak than a strip. The ribeye will also have significantly more internal fat marbling than a New York Strip resulting in a different flavor profile.Oct 6, 2018"
+        },
+        {
+            "question": "What is the best steak for grilling?",
+            "url": "https://www.tasteofhome.com/article/the-best-steaks-for-grilling/",
+            "answer": ""
+        },
+        {
+            "question": "What is America's favorite steak?",
+            "url": "https://www.thespruceeats.com/americas-most-popular-steaks-101738",
+            "answer": "Rib Eye Steak ValentynVolkov / Getty Images. Rib Eye takes the number one spot since most steak aficionados consider this the best all-around cut. The ribeye has the most fat compared to the other cuts, which is why it's such a tender, juicy, and flavorful piece of beef.May 20, 2019"
+        },
+        {
+            "question": "What's the most expensive cut of steak?",
+            "url": "http://www.steak-enthusiast.com/8-of-the-most-expensive-cuts-of-beef-you-never-knew-you-had-to-have/",
+            "answer": ""
+        },
+        {
+            "question": "Is filet mignon fatty?",
+            "url": "https://healthyeating.sfgate.com/nutrients-filet-mignon-4576.html",
+            "answer": "Filet mignon typically contains more saturated fat than sirloin and some other steaks. It also has more saturated fat than poultry and fish, according to the American Heart Association. One 3-ounce serving of filet mignon contains about 8 grams of saturated fat.Dec 20, 2018"
+        },
+        {
+            "question": "Is rib eye steak tender?",
+            "url": "https://www.tenderfilet.com/articles/meat-101/ribeyesteakmostperfectsteakgrilling/",
+            "answer": "Like a prime rib roast, the rib-eye steak has excellent marbling, giving it loads of flavor and providing the fat needed to help it stay tender during cooking. Most chefs agree that a succulent rib-eye steak is best grilled and served medium rare, but it can still be tender if grilled to medium.Aug 3, 2016"
+        },
+        {
+            "question": "How do you cook the best steak?",
+            "url": "https://www.foodnetwork.com/how-to/packages/help-around-the-kitchen/photos/how-to-make-the-best-steak",
+            "answer": ""
+        },
+        {
+            "question": "How can I make my steak tender?",
+            "url": "https://www.tasteofhome.com/article/how-to-make-tough-meat-tender/",
+            "answer": ""
+        },
+        {
+            "question": "How can I make my steak juicy and tender?",
+            "url": "https://www.onegoodthingbyjillee.com/how-to-make-cheap-steaks-taste-expensive/",
+            "answer": "To properly tenderize a steak, lay the steak out on a plate and cover each side with approximately 1 teaspoon of kosher/sea salt before cooking. Use your fingers to gently work the salt granules into the surface, breaking down the fibers of the meat. (For even more flavor, add crushed garlic to the salt.)Apr 27, 2018"
+        },
+        {
+            "question": "Why is my steak tough and chewy?",
+            "url": "https://www.livestrong.com/article/507565-how-to-fix-chewy-steaks/",
+            "answer": "The muscle fibers in meat have to be broken down and the proteins turned into gelatin in order to make meat tender. This happens very quickly over high heat with tender cuts of steak like filet mignon, but tougher cuts of meat require slow cooking, usually in some sort of liquid to keep them from drying out."
+        },
+        {
+            "question": "What is the most popular steak?",
+            "url": "http://www.topratedsteakhouses.com/what-is-the-best-steak-to-order-at-a-steakhouse-restaurant/",
+            "answer": ""
+        },
+        {
+            "question": "What is America's favorite steak?",
+            "url": "https://www.thespruceeats.com/americas-most-popular-steaks-101738",
+            "answer": "Rib Eye Steak ValentynVolkov / Getty Images. Rib Eye takes the number one spot since most steak aficionados consider this the best all-around cut. The ribeye has the most fat compared to the other cuts, which is why it's such a tender, juicy, and flavorful piece of beef.May 20, 2019"
+        },
+        {
+            "question": "What's better sirloin or ribeye?",
+            "url": "https://spoonuniversity.com/lifestyle/sirloin-vs-ribeye",
+            "answer": "With a bit of connective tissue and not much fat, sirloin is a lean and firm cut, which makes it a little less flavorful than a ribeye steak. ... Ribeye steaks are fattier than sirloin, making them juicier and richer in flavor."
+        },
+        {
+            "question": "What is the most flavorful cut of steak?",
+            "url": "http://www.clovermeadowsbeef.com/best-cut-of-steak/",
+            "answer": "Tenderloin \u2013 The most tender cut of steak Also Known As: Filet, Filet mignon, Chateaubriand. At our house, it's also \u201cJessica's steak\u201d since it's her personal favorite. Taste and Texture: Tenderloin is by far the tenderest cut of beef. It's buttery and mild in flavor."
+        },
+        {
+            "question": "Why is ribeye the best steak?",
+            "url": "https://www.mychicagosteak.com/steak-university/ribeye-steak-vs-sirloin-comparison/",
+            "answer": "Although they're fattier than other steaks, the fat also provides an insane amount of flavor that steak fanatics can't get enough of. The flavor tends to be richer than other cuts, including the sirloin. Ribeye is one of the best types of steak for pan-searing, which helps bring its strong, delicious flavors out."
+        },
+        {
+            "question": "What is the best steak to grill?",
+            "url": "https://www.tasteofhome.com/article/the-best-steaks-for-grilling/",
+            "answer": ""
+        },
+        {
+            "question": "What is a better cut porterhouse or ribeye?",
+            "url": "https://furiousgrill.com/porterhouse-vs-ribeye/",
+            "answer": "The difference between these two steaks is primarily from the fat levels. ... The porterhouse steak has two different tenderness profiles because of the two different cuts it comes as while the ribeye cut has a more meaty flavor because of the high level of fat.Feb 27, 2019"
+        },
+        {
+            "question": "What is the most expensive cut of steak?",
+            "url": "https://www.forbes.com/sites/eustaciahuen/2015/12/31/why-does-the-worlds-most-expensive-steak-cost-3200/",
+            "answer": "At $3,200, the 2000 vintage cote de boeuf (rib steak) is the world's most expensive steak. So what makes a rib steak at Boucherie Polmard worth so much?Dec 31, 2015"
+        },
+        {
+            "question": "How do you pick a good steak?",
+            "url": "https://www.chefsteps.com/activities/selecting-meat-for-purchase",
+            "answer": "When shopping for steaks, it's often best to seek a happy medium between lean and fatty. Look for steaks with some marbling, but not completely riddled with fat throughout. Try filet mignon for tenderness, or ribeye or strip loin for a balance between tender and flavorful."
+        },
+        {
+            "question": "Why is my steak tough and chewy?",
+            "url": "https://www.livestrong.com/article/507565-how-to-fix-chewy-steaks/",
+            "answer": "The muscle fibers in meat have to be broken down and the proteins turned into gelatin in order to make meat tender. This happens very quickly over high heat with tender cuts of steak like filet mignon, but tougher cuts of meat require slow cooking, usually in some sort of liquid to keep them from drying out."
+        },
+        {
+            "question": "Which is better porterhouse or T bone steak?",
+            "url": "https://beef2live.com/story-whats-difference-between-porterhouse-t-bone-steak-0-112651",
+            "answer": "Both steaks include a \"T-shaped\" bone with meat on each side. Porterhouse steaks are cut from the rear end of the short loin and thus include more tenderloin steak, along with (on the other side of the bone) a large strip steak. T-bone steaks are cut closer to the front, and contain a smaller section of tenderloin."
+        },
+        {
+            "question": "What cheese is best with steak?",
+            "url": "https://www.quora.com/What-cheese-pairs-well-with-steak",
+            "answer": "I've used mozzarella, Gruyere and provolone on a steak sandwich. They say blue cheese is great on hamburgers. Even Gouda or Edam can taste delicious with a steak. Steak is a basic protein taste that can be enhanced with so many different spices, cheeses, veggies, sauces, etc. the best cheese, are the ones you like.Mar 18, 2016"
+        },
+        {
+            "question": "What can you put on steak?",
+            "url": "https://www.wikihow.com/Season-a-Steak",
+            "answer": ""
+        },
+        {
+            "question": "What goes good on a steak?",
+            "url": "https://www.thekitchn.com/30-side-dishes-that-go-great-with-grilled-steak-233936",
+            "answer": ""
+        },
+        {
+            "question": "What kind of meat is in a cheesesteak?",
+            "url": "https://www.centercutcook.com/philly-cheesesteak-sandwiches/",
+            "answer": "Let's start with the beef! Traditionally, a Philly Cheesesteak is made with thinly sliced ribeye. Ribeye steaks tend to be a bit pricey. Chris recommended skirt steak which is more reasonable priced, but since my grocery store didn't have it, I went with top sirloin.Apr 4, 2013"
+        },
+        {
+            "question": "Why does steak taste good?",
+            "url": "https://www.washingtonpost.com/national/health-science/what-makes-a-hamburger-and-other-cooked-meat-so-enticing-to-humans/2013/08/12/8f8e1d72-ff73-11e2-9711-3708310f6f4d_story.html",
+            "answer": "The answer, according to scientists, lies in meat's unique mixture of fat and umami (more about this taste later), spiced up in a process called the Maillard reaction \u2014 the browning that happens when we cook a piece of meat. ... And the lack of strong scents is one reason why raw meat is not very appealing.Aug 12, 2013"
+        },
+        {
+            "question": "What gives steak its flavor?",
+            "url": "https://www.exploratorium.edu/cooking/meat/INT-what-makes-flavor.html",
+            "answer": "Most of meat's flavor develops when it is cooked. ... The Maillard reaction occurs when the denatured proteins on the surface of the meat recombine with the sugars present. The combination creates the \"meaty\" flavor and changes the color. For this reason, it is also called the browning reaction."
+        },
+        {
+            "question": "Is steak better than chicken?",
+            "url": "https://www.tasteinc.com/battle-meats-chicken-vs-beef/",
+            "answer": "Beef has a few nutritious advantages over chicken, as it contains more iron and zinc. ... However, chicken is much better for your cardiovascular health, because it has less cholesterol and saturated fat than beef. Studies have also shown that red meat can increase the risk of heart disease."
+        },
+        {
+            "question": "Why is steak bad for you?",
+            "url": "https://www.webmd.com/food-recipes/features/the-truth-about-red-meat",
+            "answer": "A: For heart disease, the answer is pretty clear. Some red meats are high in saturated fat, which raises blood cholesterol. High levels of LDL cholesterol increase the risk of heart disease. When it comes to cancer, the answer is not so clear.Aug 29, 2011"
+        },
+        {
+            "question": "Are humans red meat?",
+            "url": "https://en.wikipedia.org/wiki/Red_meat",
+            "answer": "Under the culinary definition, the meat from adult or \"gamey\" mammals (for example, beef, horse meat, mutton, venison, boar, hare) is red meat, while that from young mammals (rabbit, veal, lamb) is white. Most poultry is white, but duck and goose are red. Most cuts of pork are red, others are white."
+        },
+        {
+            "question": "Is chicken better than red meat?",
+            "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/meat-poultry-and-fish-picking-healthy-proteins",
+            "answer": "Why are chicken, fish and beans better for you than red meat? In general, red meats (beef, pork and lamb) have more saturated (bad) fat than chicken, fish and vegetable proteins such as beans. ... You can prepare them without saturated and trans fats for a healthy meal."
+        },
+        {
+            "question": "Should I cut out red meat?",
+            "url": "https://www.thehealthy.com/nutrition/stop-eating-red-meat/",
+            "answer": "Cut out red meat and you'll reduce the amount of saturated fats, which have been linked to higher cholesterol levels. The American Heart Association recommends getting no more than 5 to 6 percent of your daily calories from saturated fat.Sep 24, 2019"
+        },
+        {
+            "question": "Why do people love steak so much?",
+            "url": "https://www.independent.co.uk/life-style/food-and-drink/features/the-best-steak-in-the-world-what-is-it-about-steak-that-makes-people-want-to-eat-so-much-of-it-a6727696.html",
+            "answer": "People love steak because of the way it makes them feel when they put it in their mouths. When crushed between an upper and a lower molar, steak delivers flavour, tenderness and juiciness in a combination equalled by no other meat. ... Steak is satisfying in a way that only the pleasures of the flesh can be.Nov 9, 2015"
+        },
+        {
+            "question": "Is Steak good to eat on a diet?",
+            "url": "https://www.webmd.com/diet/ss/slideshow-bad-foods-that-are-good-for-weight-loss",
+            "answer": "For years, health experts have been admonishing us to eat less red meat. But steak is not always bad for the waistline. In fact, a lean cut of beef has barely more saturated fat than a similar-sized skinless chicken breast. Like eggs, steak is loaded with protein and can keep you feeling full longer."
+        },
+        {
+            "question": "What is steak meat made of?",
+            "url": "https://en.wikipedia.org/wiki/Steak",
+            "answer": "Steaks are often cut from grazing animals, usually farmed, other than cattle, including bison, camel, goat, horse, kangaroo, sheep, ostrich, pigs, reindeer, turkey, deer, and zebu, as well as various types of fish, especially salmon and large pelagic fish such as swordfish, shark, and marlin."
+        },
+        {
+            "question": "Is Steak a muscle?",
+            "url": "https://www.exploratorium.edu/cooking/meat/INT-what-is-meat.html",
+            "answer": "Meat is mostly the muscle tissue of an animal. Most animal muscle is roughly 75% water, 20% protein, and 5% fat, carbohydrates, and assorted proteins. Muscles are made of bundles of cells called fibers. Each cell is crammed with filaments made of two proteins: actin and myosin."
+        },
+        {
+            "question": "Is it healthy to eat steak?",
+            "url": "https://www.healthline.com/nutrition/is-red-meat-bad-for-you-or-good",
+            "answer": "Properly cooked red meat is likely very healthy. It's highly nutritious and loaded with healthy proteins, healthy fats, vitamins and minerals, along with various nutrients known to positively affect the function of both your body and brain.May 22, 2018"
+        },
+        {
+            "question": "Why should we not eat meat?",
+            "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/meatless-meals/art-20048193",
+            "answer": "The health factor And people who don't eat meat \u2014 vegetarians \u2014 generally eat fewer calories and less fat, weigh less, and have a lower risk of heart disease than nonvegetarians do. ... Processed meats also increase the risk of death from these diseases. And what you don't eat can also harm your health.Jul 26, 2017"
+        },
+        {
+            "question": "Why we should not eat cows?",
+            "url": "https://www.peta.org/living/food/top-10-reasons-eat-cows/",
+            "answer": "Your Body Will Thank You Eating beef products is a good way to expand your waistline and increase your chances of becoming impotent and developing heart disease, diabetes, arthritis, and other health conditions.Jun 25, 2010"
+        },
+        {
+            "question": "How much red meat should you eat?",
+            "url": "https://www.wcrf.org/dietandcancer/recommendations/limit-red-processed-meat",
+            "answer": "Dietary goal. If you eat red meat, limit consumption to no more than about three portions per week. Three portions is equivalent to about 350\u2013500g (about 12\u201318oz) cooked weight."
+        }
+    ],
+    "ramen": [
+        {
+            "question": "Which instant ramen is the best?",
+            "url": "https://www.savantmag.com/best-instant-ramen/",
+            "answer": ""
+        },
+        {
+            "question": "What can I add to Ramen to make it taste better?",
+            "url": "https://www.scoopwhoop.com/easy-noodle-recipes/",
+            "answer": ""
+        },
+        {
+            "question": "What is a healthy alternative to ramen noodles?",
+            "url": "https://howtonight.com/healthy-alternatives-ramen-noodles/",
+            "answer": ""
+        },
+        {
+            "question": "What brand of ramen noodles is the best?",
+            "url": "https://spoonuniversity.com/lifestyle/8-instant-noodles-that-are-way-better-than-maruchan-ramen",
+            "answer": ""
+        },
+        {
+            "question": "How do you make the best ramen noodles?",
+            "url": "https://www.wikihow.com/Cook-Ramen-Noodles",
+            "answer": ""
+        },
+        {
+            "question": "What are the noodles called in ramen?",
+            "url": "https://www.thekitchn.com/whats-the-difference-soba-udon-116505",
+            "answer": "Ramen \u2013 Also made of wheat, ramen noodles are much thinner and longer than udon and have a nice chewy bite when cooked. Forget the seasoning packet they come with and make your own Healthy Instant Ramen. Bean Threads \u2013 These are also sometimes called cellophane noodles, glass noodles, or mung bean threads.May 11, 2010"
+        },
+        {
+            "question": "What is the best Korean instant noodles?",
+            "url": "https://www.theramenrater.com/2018/01/22/top-ten-south-korean-2018/",
+            "answer": ""
+        },
+        {
+            "question": "Are ramen noodles bad for your health?",
+            "url": "https://www.healthline.com/nutrition/ramen-noodles",
+            "answer": "Though instant ramen noodles provide iron, B vitamins and manganese, they lack fiber, protein and other crucial vitamins and minerals. Additionally, their MSG, TBHQ and high sodium contents may negatively affect health, such as by increasing your risk of heart disease, stomach cancer and metabolic syndrome.Sep 8, 2018"
+        },
+        {
+            "question": "Can ramen noodles kill you?",
+            "url": "https://www.thedailymeal.com/eat/10-things-you-didn-t-know-about-ramen-slideshow/slide-10",
+            "answer": "Eating Too Much Instant Ramen Can Kill You. A 2014 study published in the Journal of Nutrition found that eating instant noodles two or more times per week increases the risk of developing heart disease and conditions including diabetes and stroke, especially in women.Feb 29, 2016"
+        },
+        {
+            "question": "What are the healthiest noodles?",
+            "url": "https://www.wellandgood.com/good-food/best-healthy-noodles/",
+            "answer": ""
+        },
+        {
+            "question": "What type of noodles are ramen noodles?",
+            "url": "https://en.wikipedia.org/wiki/Japanese_noodles",
+            "answer": ""
+        },
+        {
+            "question": "What can I add to ramen noodles?",
+            "url": "https://www.bustle.com/p/9-tasty-ramen-hacks-to-make-your-bowl-of-noodles-even-more-slurp-able-3224495",
+            "answer": ""
+        },
+        {
+            "question": "What does Kylie Jenner put in her ramen?",
+            "url": "https://www.refinery29.com/en-us/2016/08/119201/kylie-jenner-instant-ramen",
+            "answer": "Last night, Kylie Jenner shared with the world how she prepares her ramen noodles. ... According to her snap, when Kylie makes the quick meal at home, she likes to add butter, garlic powder, and an egg.Aug 5, 2016"
+        },
+        {
+            "question": "What spices go well with ramen noodles?",
+            "url": "https://food-hacks.wonderhowto.com/how-to/5-simple-tips-upgrade-your-packaged-ramen-noodles-from-instant-gourmet-0150632/",
+            "answer": "A few seasonings like cinnamon, star anise, white pepper, red chile flakes, curry powder or even cumin will add some depth and make instant ramen taste more authentic.Feb 4, 2014"
+        },
+        {
+            "question": "What goes in traditional ramen?",
+            "url": "https://en.wikipedia.org/wiki/Ramen",
+            "answer": "Most noodles are made from four basic ingredients: wheat flour, salt, water, and kansui (\u304b\u3093\u6c34) (from kansui (\u9e79\u6c34, salt water)) a type of alkaline mineral water, containing sodium carbonate and usually potassium carbonate, as well as sometimes a small amount of phosphoric acid."
+        },
+        {
+            "question": "Which brand of ramen noodles is best?",
+            "url": "https://spoonuniversity.com/lifestyle/8-instant-noodles-that-are-way-better-than-maruchan-ramen",
+            "answer": ""
+        },
+        {
+            "question": "Why Ramen noodles are bad for you?",
+            "url": "https://www.healthline.com/nutrition/ramen-noodles",
+            "answer": "Though instant ramen noodles provide iron, B vitamins and manganese, they lack fiber, protein and other crucial vitamins and minerals. Additionally, their MSG, TBHQ and high sodium contents may negatively affect health, such as by increasing your risk of heart disease, stomach cancer and metabolic syndrome.Sep 8, 2018"
+        },
+        {
+            "question": "Is there any healthy instant noodles?",
+            "url": "https://www.healthline.com/nutrition/instant-noodles",
+            "answer": "The Bottom Line In moderation, including instant noodles in your diet likely won't come with any negative health effects. However, they are low in nutrients, so don't use them as a staple in your diet.Apr 15, 2017"
+        },
+        {
+            "question": "Which instant ramen is the best?",
+            "url": "https://www.savantmag.com/best-instant-ramen/",
+            "answer": ""
+        },
+        {
+            "question": "What is a healthy alternative to ramen noodles?",
+            "url": "https://howtonight.com/healthy-alternatives-ramen-noodles/",
+            "answer": ""
+        },
+        {
+            "question": "How do you make the best ramen noodles?",
+            "url": "https://www.wikihow.com/Cook-Ramen-Noodles",
+            "answer": ""
+        },
+        {
+            "question": "What is the spiciest ramen noodles in the world?",
+            "url": "https://www.insider.com/worlds-spiciest-instant-noodles-viral-challenge-2017-8",
+            "answer": "Earlier this year, South Korean company Samyang Foods released the world's spiciest instant noodle. Hek Buldak Extra Spicy Roasted Chicken Ramen has a rating of about 8,000 Scoville Heat Units and is reportedly so spicy that people online have taken on the challenge of eating them.Aug 28, 2017"
+        },
+        {
+            "question": "What is traditional ramen?",
+            "url": "https://en.wikipedia.org/wiki/Ramen",
+            "answer": "Tokyo style ramen consists of slightly thin, curly noodles served in a soy-flavored chicken broth. The Tokyo style broth typically has a touch of dashi, as old ramen establishments in Tokyo often originate from soba eateries. Standard toppings are chopped scallion, menma, sliced pork, kamaboko, egg, nori, and spinach."
+        },
+        {
+            "question": "Should you drink ramen broth?",
+            "url": "https://www.bloomberg.com/news/articles/2017-07-27/what-you-re-doing-wrong-when-you-eat-a-bowl-of-ramen",
+            "answer": "It's totally OK to drink the broth from the bowl. It's considered a compliment to how good the broth is. But finish it at your own risk; those broths are flavor bombs, packed with sodium (see above). Another thing that is OK to do is to ask for extra noodles if you've finished the ones in your bowl.Jul 27, 2017"
+        },
+        {
+            "question": "What is the pink and white thing in ramen?",
+            "url": "https://www.quora.com/What-are-the-pink-and-white-things-in-ramen",
+            "answer": "Narutomaki is one of the several types of kamaboko (generically, Japanese fish cakes), which often mimic the texture and color of the meat of lobster, crab, and other shellfish. The pink swirls are symbolic of the Naruto whirlpools in the Naruto Strait, near Japan."
+        },
+        {
+            "question": "What should I put in my ramen?",
+            "url": "https://www.bustle.com/p/9-tasty-ramen-hacks-to-make-your-bowl-of-noodles-even-more-slurp-able-3224495",
+            "answer": ""
+        },
+        {
+            "question": "What does tonkotsu ramen taste like?",
+            "url": "https://gurunavi.com/en/japanfoodie/2015/09/ramen.html",
+            "answer": "Tonkotsu ramen is boiled for many hours, making it much thicker than either the shio or shoyu base. Tonkotsu, which means \u201cpig bone,\u201d is made by boiling pork meat and bones together, thus creating a thick and hearty broth with a meaty flavor.Sep 25, 2015"
+        },
+        {
+            "question": "What type of noodles are ramen?",
+            "url": "https://www.thekitchn.com/whats-the-difference-soba-udon-116505",
+            "answer": "Ramen \u2013 Also made of wheat, ramen noodles are much thinner and longer than udon and have a nice chewy bite when cooked. Forget the seasoning packet they come with and make your own Healthy Instant Ramen. Bean Threads \u2013 These are also sometimes called cellophane noodles, glass noodles, or mung bean threads.May 11, 2010"
+        },
+        {
+            "question": "What makes tonkotsu ramen creamy?",
+            "url": "https://glebekitchen.com/tonkotsu-ramen-broth-home/",
+            "answer": "Tonkotsu ramen broth is simply pork bones cooked at a rolling boil for 12 hours. The process extracts all the goodness of the pork and turns the broth creamy white.Apr 13, 2017"
+        },
+        {
+            "question": "What does Chashu mean?",
+            "url": "https://www.chopstickchronicles.com/ramen-pork-chashu/",
+            "answer": "Chashu is the Chinese reading of Kanji script \u713c\u8c5a but it can also be read as Yakibuta in Japanese. Despite the kanji reading of \u201cyaki\u201d, which means grilled or fried, the pork meat you usually find in ramen is more like a braised pork in a soy sauce base.Nov 6, 2017"
+        },
+        {
+            "question": "Why is ramen bad for you?",
+            "url": "https://foodrevolution.org/blog/ramen-noodles/",
+            "answer": "Ramen noodles are particularly unhealthy because they contain a food additive called Tertiary-butyl hydroquinone (TBHQ), a preservative that is a petroleum industry byproduct. They're also incredibly high in sodium, calories and saturated fat. The containers packaging these noodles aren't helping much either.Dec 4, 2014"
+        },
+        {
+            "question": "Are ramen noodles made of plastic?",
+            "url": "https://www.healthline.com/nutrition/ramen-noodles",
+            "answer": "Ramen noodles are a packaged, instant type of noodle made from wheat flour, various vegetable oils and flavorings. The noodles are pre-cooked, meaning they have been steamed and then air dried or fried to shorten cooking time for consumers.Sep 8, 2018"
+        },
+        {
+            "question": "Can ramen noodles kill you?",
+            "url": "https://www.thedailymeal.com/eat/10-things-you-didn-t-know-about-ramen-slideshow/slide-10",
+            "answer": "Eating Too Much Instant Ramen Can Kill You. A 2014 study published in the Journal of Nutrition found that eating instant noodles two or more times per week increases the risk of developing heart disease and conditions including diabetes and stroke, especially in women.Feb 29, 2016"
+        },
+        {
+            "question": "Can Ramen be healthy?",
+            "url": "https://www.maruchan.com/articles/healthier-ramen-is-just-minutes-away/",
+            "answer": "Yes, healthy ramen isn't only possible, it's easy to make. Ramen noodles are most healthy when combined with other ingredients to create a nutritious meal. Maruchan ramen is great to use as a base for a variety of healthy dishes and it is easy to prepare quickly."
+        },
+        {
+            "question": "Are ramen noodles good for weight loss?",
+            "url": "https://www.healthline.com/nutrition/instant-noodles",
+            "answer": "Summary: Instant noodles are low in calories, which could help decrease calorie intake. However, they are also low in fiber and protein and may not support weight loss or make you feel very full.Apr 15, 2017"
+        },
+        {
+            "question": "What are ramen noodles made of?",
+            "url": "https://en.wikipedia.org/wiki/Ramen",
+            "answer": "Most noodles are made from four basic ingredients: wheat flour, salt, water, and kansui (\u304b\u3093\u6c34) (from kansui (\u9e79\u6c34, salt water)) a type of alkaline mineral water, containing sodium carbonate and usually potassium carbonate, as well as sometimes a small amount of phosphoric acid."
+        },
+        {
+            "question": "What is Pho made of?",
+            "url": "https://www.foodrepublic.com/2013/03/28/how-to-eat-a-bowl-of-pho-like-you-know-what-youre-doing/",
+            "answer": "The term pho actually refers to the noodles, not the soup. There are hundreds of different soups found around Vietnam. But pho is made with pristine white rice flour noodles that are made daily and sold in markets.Mar 28, 2013"
+        },
+        {
+            "question": "Why are ramen noodles Curly?",
+            "url": "https://cooking.stackexchange.com/questions/34753/do-fresh-ramen-noodles-come-in-a-curly-form-or-only-instant",
+            "answer": "The pasta stayed pretty curly after cooking, most likely because it wasn't dried over a rack; it was just rested for a short time in flour-dusted clumps, the flour there to keep each noodle from sticking together. ... In \"real\" ramen, the broth tends to be super oily, typically from pork fat; the noodles are low in fat.Jun 18, 2013"
+        },
+        {
+            "question": "Is Maggi a junk food?",
+            "url": "https://www.quora.com/Is-Maggi-a-junk-food",
+            "answer": "Maggi w\u00fcrze is essentially hydrolized vegetable sauce (like soy sauce) with some seasonings and MSG. All of which are great ingredients and none of which scream \"junk\" (unless you consider 70% of South-Asian dishes to be junk food). Maggi is a seasoning. ... Maggi doesn't make food more or less junk, the cook does."
+        },
+        {
+            "question": "Is Maggi deep fried?",
+            "url": "https://www.quora.com/Is-there-any-harm-in-having-Maggi-everyday",
+            "answer": "Simple carbs, when consumed in excess, have a tendency to accumulate around the abdomen as fat. Therefore, consuming excess Maggi is bad for you. 2) Maggi is double deep-fried to give it that non-sticky, waxy appearance - The process for making Maggi noodles involves deep-frying the ingredients not once, but twice!May 4, 2015"
+        },
+        {
+            "question": "Which country eats the most instant noodles?",
+            "url": "https://instantnoodles.org/en/noodles/report.html",
+            "answer": "Korea leads per capita consumption by far. The Koreans like instant noodles so much that they are served even at restaurants and stalls there. In Vietnam and Nepal, instant noodles are popular for breakfast and night snacks. *The Global Demand means the total servings eaten in the world in a year."
+        },
+        {
+            "question": "How did Ramen become popular?",
+            "url": "https://www.noodlebarphx.com/ramen-popularity-in-united-states/",
+            "answer": "During the 1920s, Chinese food became extremely popular in Japan, which was essentially responsible for the Chinese-style soup of ramen to gain traction in the culinary world. ... 1958 marked a landmark development in the history of ramen. Momofuku Ando created instant ramen in his shed.Jun 2, 2017"
+        },
+        {
+            "question": "What type of noodles are ramen?",
+            "url": "https://www.thekitchn.com/whats-the-difference-soba-udon-116505",
+            "answer": "Ramen \u2013 Also made of wheat, ramen noodles are much thinner and longer than udon and have a nice chewy bite when cooked. Forget the seasoning packet they come with and make your own Healthy Instant Ramen. Bean Threads \u2013 These are also sometimes called cellophane noodles, glass noodles, or mung bean threads.May 11, 2010"
+        },
+        {
+            "question": "Are ramen noodles vegan?",
+            "url": "https://www.thespruceeats.com/are-ramen-noodles-vegetarian-3378465",
+            "answer": "To be 100% clear: The ramen noodles themselves are vegetarian, but the little seasoning packets are usually not. But, keep reading... The one major exception to this rule is Top Ramen brand Oriental flavor, which contains no animal ingredients at all, including in the flavoring packet and is both vegetarian and vegan.Mar 15, 2019"
+        },
+        {
+            "question": "What culture is ramen from?",
+            "url": "https://web-japan.org/trends/11_culture/pop110728.html",
+            "answer": "Ramen \u2014 noodles made of wheat flour, eggs, and kansui (alkaline mineral water) in a soup broth with various toppings \u2014 was brought to Japan from China around 1910. Soon afterwards, the first Japanese ramen flavored with shoyu (soy sauce) was introduced in the Asakusa area of Tokyo.Jul 28, 2011"
+        }
+    ]
+}
